@@ -116,6 +116,3 @@ fields:
       step: 
       required: true
   label: Custom Amount Options
-pages:
-- src/pages/gp.json
-- src/pages/form.json
