@@ -1,0 +1,43 @@
+{
+  "displayLogo": true,
+  "customAmountOptions": {
+    "enabled": true,
+    "isMonthly": true,
+    "defaultAmount": 50,
+    "message": "Provides {{n}} meals and care",
+    "multiplier": 0.4784689,
+    "messageSingular": "Provides 1 meal and care"
+  },
+  "nickname": "Default",
+  "customContent": "",
+  "emailNotRequired": false,
+  "isInternal": false,
+  "skipCvc": false,
+  "useIncentives": false,
+  "presets": [
+    {
+      "message": "Gives 720 meals a year to hungry people",
+      "isMonthly": true,
+      "isDefault": false,
+      "amount": 96
+    },
+    {
+      "amount": 50,
+      "message": "Funds 12 days of recovery programs a year",
+      "isMonthly": true,
+      "isDefault": false
+    },
+    {
+      "amount": 25,
+      "message": "Gives shelter to 56 homeless guests every year",
+      "isMonthly": true,
+      "isDefault": false
+    },
+    {
+      "amount": 16,
+      "message": "Provides meals and care for 120 people every year",
+      "isMonthly": true,
+      "isDefault": true
+    }
+  ]
+}

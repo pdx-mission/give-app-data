@@ -117,4 +117,5 @@ fields:
       required: true
   label: Custom Amount Options
 pages:
+- pages/form.json
 - pages/gp.json
