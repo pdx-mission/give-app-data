@@ -116,5 +116,3 @@ fields:
       step: 
       required: true
   label: Custom Amount Options
-pages:
-- pages/testing.json
