@@ -4,16 +4,18 @@
     "enabled": true,
     "isMonthly": false,
     "defaultAmount": 50,
-    "message": "Provides {{n}} meals and care",
-    "messageSingular": "Provides 1 meal",
+    "message": "",
+    "messageSingular": "",
     "multiplier": 1
   },
   "nickname": "Gifts Processing",
-  "customContent": "<h1>Gifts Processing</h1><p><img src=\"/media/koin_15698.jpg\" title=\"Gifts Processing\" alt=\"Telethon Banner\"></p>",
+  "customContent": "Gifts Processing",
   "emailNotRequired": true,
   "isInternal": true,
   "skipCvc": true,
   "useIncentives": false,
-  "presets": [],
+  "presets": [
+
+  ],
   "title": ""
 }
