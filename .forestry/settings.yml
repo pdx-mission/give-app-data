@@ -11,7 +11,7 @@ sections:
   match: "**/*"
   new_doc_ext: json
 upload_dir: media
-public_path: "/media"
+public_path: https://pdx-mission.github.io/give-app-data/media
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
