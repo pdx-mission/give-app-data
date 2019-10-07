@@ -8,7 +8,7 @@
     "multiplier": 1,
     "messageSingular": ""
   },
-  "nickname": "Gifts Processing Internal",
+  "nickname": "Gifts Processing",
   "customContent": "<h3>Gifts Processing</h3>",
   "emailNotRequired": true,
   "isInternal": true,
