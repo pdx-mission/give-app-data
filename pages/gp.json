@@ -1,0 +1,20 @@
+{
+  "displayLogo": true,
+  "customAmountOptions": {
+    "enabled": true,
+    "isMonthly": false,
+    "defaultAmount": 50,
+    "message": "",
+    "multiplier": 1,
+    "messageSingular": ""
+  },
+  "nickname": "Gifts Processing Internal",
+  "customContent": "<h3>Gifts Processing</h3>",
+  "emailNotRequired": true,
+  "isInternal": true,
+  "skipCvc": true,
+  "useIncentives": false,
+  "presets": [
+
+  ]
+}
