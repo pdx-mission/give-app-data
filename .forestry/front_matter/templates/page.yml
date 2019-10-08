@@ -124,6 +124,7 @@ fields:
       required: true
   label: Custom Amount Options
 pages:
+- pages/thanksgivingcountdown.json
 - pages/yourchoice.json
 - pages/fallnl.json
 - pages/gp.json
