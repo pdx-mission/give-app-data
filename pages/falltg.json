@@ -9,7 +9,7 @@
     "messageSingular": "provides shelter, meals and care for 1 person"
   },
   "nickname": "Fall Acquisition",
-  "customContent": "<h3><strong>Help hungry people with a holiday meal!</strong></h3><p>So many men, women, and children in our community are hungry, homeless and hurting. It doesn't take much to ease their struggling. For just $2.09, you can provide a complete Thanksgiving meal, served with kindness and love.</p><p><strong>A meal is the first step towards a new life. Thank you for giving hope to so many men, women, and children in our community!</strong></p>",
+  "customContent": "<p><img src=\"https://give.data.portlandrescuemission.org/media/koin-Duplicated-12756_70977-1.jpg\"></p><h3><strong>Help hungry people with a holiday meal!</strong></h3><p>So many men, women, and children in our community are hungry, homeless and hurting. It doesn't take much to ease their struggling. For just $2.09, you can provide a complete Thanksgiving meal, served with kindness and love.</p><p><strong>A meal is the first step towards a new life. Thank you for giving hope to so many men, women, and children in our community!</strong></p>",
   "defaultSegment": "Q09191",
   "emailNotRequired": false,
   "isInternal": false,
