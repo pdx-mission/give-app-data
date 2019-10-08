@@ -13,7 +13,7 @@
   "emailNotRequired": false,
   "isInternal": false,
   "skipCvc": false,
-  "useIncentives": false,
+  "useIncentives": true,
   "presets": [
     {
       "amount": 24,
