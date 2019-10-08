@@ -121,8 +121,8 @@ fields:
       required: true
   label: Custom Amount Options
 pages:
-- pages/koin-internal.json
 - pages/70.json
+- pages/koin-internal.json
 - pages/falltg.json
 - pages/thanksgivingcountdown.json
 - pages/yourchoice.json
