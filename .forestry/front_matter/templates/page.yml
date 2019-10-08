@@ -17,6 +17,13 @@ fields:
     schema:
       format: html-blocks
   label: Custom Content
+- name: defaultSegment
+  type: text
+  config:
+    required: true
+  label: Default Segment
+  description: E.g. T10191
+  default: ''
 - name: displayLogo
   type: boolean
   label: Display Logo
