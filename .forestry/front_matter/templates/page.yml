@@ -116,6 +116,15 @@ fields:
       step: 
       required: true
   label: Custom Amount Options
+- name: other_content
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: html
+  label: Other Content
 pages:
 - pages/koin.json
 - pages/form.json
