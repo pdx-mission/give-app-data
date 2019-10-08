@@ -1,0 +1,21 @@
+{
+  "displayLogo": true,
+  "customAmountOptions": {
+    "enabled": true,
+    "isMonthly": false,
+    "defaultAmount": 50,
+    "message": "",
+    "multiplier": 1,
+    "messageSingular": ""
+  },
+  "nickname": "KOIN Hope 24/7 Telethon (Internal)",
+  "customContent": "<p><img src=\"https://give.data.portlandrescuemission.org/media/koin_15698.jpg\"></p>",
+  "defaultSegment": "T10191G",
+  "emailNotRequired": true,
+  "isInternal": true,
+  "skipCvc": true,
+  "useIncentives": true,
+  "presets": [
+
+  ]
+}
