@@ -16,5 +16,6 @@
   "useIncentives": false,
   "presets": [
 
-  ]
+  ],
+  "defaultSegment": "Unsolicited"
 }

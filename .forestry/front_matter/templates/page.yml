@@ -124,6 +124,6 @@ fields:
       required: true
   label: Custom Amount Options
 pages:
+- pages/gp.json
 - pages/form.json
 - pages/koin.json
-- pages/gp.json
