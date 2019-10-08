@@ -39,5 +39,6 @@
       "isMonthly": true,
       "isDefault": false
     }
-  ]
+  ],
+  "defaultSegment": "T10191D"
 }
