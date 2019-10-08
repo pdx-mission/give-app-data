@@ -39,5 +39,6 @@
       "isDefault": false,
       "amount": 96
     }
-  ]
+  ],
+  "defaultSegment": "UnsolicitedW"
 }
