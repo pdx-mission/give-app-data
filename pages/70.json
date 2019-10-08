@@ -1,0 +1,38 @@
+{
+  "displayLogo": true,
+  "customAmountOptions": {
+    "enabled": true,
+    "isMonthly": true,
+    "defaultAmount": 50,
+    "message": "Provides {{n}} meals and care",
+    "multiplier": 1,
+    "messageSingular": ""
+  },
+  "nickname": "70th Anniversary",
+  "customContent": "",
+  "defaultSegment": "D11191",
+  "emailNotRequired": false,
+  "isInternal": false,
+  "skipCvc": false,
+  "useIncentives": false,
+  "presets": [
+    {
+      "amount": 70,
+      "message": "Provides hope for 33 people!",
+      "isMonthly": true,
+      "isDefault": false
+    },
+    {
+      "amount": 140,
+      "message": "Provides hope for 67 people!",
+      "isMonthly": true,
+      "isDefault": true
+    },
+    {
+      "amount": 210,
+      "message": "provides hope for 100 people!",
+      "isMonthly": true,
+      "isDefault": false
+    }
+  ]
+}
