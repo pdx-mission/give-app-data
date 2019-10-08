@@ -1,0 +1,44 @@
+{
+  "displayLogo": true,
+  "customAmountOptions": {
+    "enabled": true,
+    "isMonthly": true,
+    "defaultAmount": 50,
+    "message": "provides meals and care for {{n}} people",
+    "multiplier": 12,
+    "messageSingular": "provides meals and care for 1 person"
+  },
+  "nickname": "Fall Newsletter",
+  "customContent": "<p><img src=\"https://give.data.portlandrescuemission.org/media/fallnl_83097.jpg\"></p><h3>No one should be lonely or hungry on Thanksgiving.</h3><p>Your gift today ensures that hot meals fill hungry souls who come to us for food, friendship, comfort, and guidance.</p><p>Mark is so grateful for the transformation made possible by donors who support Portland Rescue Mission. This Thanksgiving and Christmas, Mark has a new perspective.<em>“There is hope in this world,” he says. “I’m thankful that I’ll never have to be homeless, that I don’t have to be alone anymore.”</em></p><p><strong><em>Your donation today will provide urgent help and life-changing care.</em></strong></p>",
+  "defaultSegment": "N09191W",
+  "emailNotRequired": false,
+  "isInternal": false,
+  "skipCvc": false,
+  "useIncentives": false,
+  "presets": [
+    {
+      "amount": 24,
+      "message": "provides meals and care for 24 people every year",
+      "isMonthly": true,
+      "isDefault": false
+    },
+    {
+      "message": "provides meals and care for 36 people every year",
+      "isMonthly": true,
+      "isDefault": false,
+      "amount": 36
+    },
+    {
+      "message": "provides meals and care for 48 people every year",
+      "isMonthly": true,
+      "isDefault": false,
+      "amount": 48
+    },
+    {
+      "message": "provides meals and care for 96 people every year",
+      "isMonthly": true,
+      "isDefault": false,
+      "amount": 96
+    }
+  ]
+}
