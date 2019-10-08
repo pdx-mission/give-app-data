@@ -12,7 +12,7 @@
   "customContent": "<p><img src=\"https://give.data.portlandrescuemission.org/media/koin_15698.jpg\"></p>",
   "defaultSegment": "T10191G",
   "emailNotRequired": true,
-  "isInternal": true,
+  "isInternal": false,
   "skipCvc": true,
   "useIncentives": true,
   "presets": [
