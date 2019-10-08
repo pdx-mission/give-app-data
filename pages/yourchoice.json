@@ -1,0 +1,21 @@
+{
+  "displayLogo": true,
+  "customAmountOptions": {
+    "enabled": true,
+    "isMonthly": true,
+    "defaultAmount": 50,
+    "message": "",
+    "multiplier": 1,
+    "messageSingular": ""
+  },
+  "nickname": "Your Choice",
+  "customContent": "<p><img src=\"https://give.data.portlandrescuemission.org/media/YourChoice_51701.jpg\"></p><h3>One choice can change everything.</h3><p>Between now and the end of the year, we plan to serve more than 80,000 hot, nutritious meals. We’ll provide more than 20,000 nights of rest for homeless men, women, and children.</p><p><em>We simply can’t do it without God’s provision through friends like you.</em></p><h4><strong>Thank you for your choice to change the life of a hurting man, woman or child today.</strong></h4>",
+  "defaultSegment": "A10191W",
+  "emailNotRequired": false,
+  "isInternal": false,
+  "skipCvc": false,
+  "useIncentives": false,
+  "presets": [
+
+  ]
+}
