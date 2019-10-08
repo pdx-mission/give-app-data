@@ -102,15 +102,12 @@ fields:
     config:
       required: false
     label: Message
-    description: Use {{n}} as a placeholder for value multiplier. E.g. "Provides {{n}}
-      meals"
     default: Provides {{n}} meals and care
   - name: messageSingular
     type: text
     config:
       required: false
     label: Message (Singular)
-    description: Include a singular message, e.g. "Provides 1 meal"
   - name: multiplier
     type: number
     label: Multiplier
