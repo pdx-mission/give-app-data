@@ -122,11 +122,11 @@ fields:
   label: Custom Amount Options
 pages:
 - pages/koin.json
-- pages/koin-internal.json
-- pages/70.json
-- pages/falltg.json
-- pages/thanksgivingcountdown.json
 - pages/yourchoice.json
+- pages/falltg.json
+- pages/70.json
 - pages/fallnl.json
+- pages/thanksgivingcountdown.json
+- pages/koin-internal.json
 - pages/gp.json
 - pages/form.json
