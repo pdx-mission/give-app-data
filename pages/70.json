@@ -18,7 +18,7 @@
   "presets": [
     {
       "amount": 70,
-      "message": "Provides hope for 33 people!",
+      "message": "Provides meals, shelter and care for 5 people",
       "isMonthly": true,
       "isDefault": false
     },
