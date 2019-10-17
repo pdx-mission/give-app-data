@@ -17,8 +17,8 @@
   "useIncentives": false,
   "presets": [
     {
-      "amount": 2.09,
-      "message": "",
+      "amount": 12,
+      "message": "Provides meal, shelter and care ",
       "isMonthly": true,
       "isDefault": false
     }
