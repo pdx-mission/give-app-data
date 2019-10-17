@@ -9,13 +9,18 @@
     "messageSingular": ""
   },
   "nickname": "Thanksgiving Meal Ticket",
-  "customContent": "<p>1</p>",
+  "customContent": "<p></p>",
   "defaultSegment": "A10192W",
   "emailNotRequired": false,
   "isInternal": false,
   "skipCvc": false,
   "useIncentives": false,
   "presets": [
-
+    {
+      "amount": 2.09,
+      "message": "",
+      "isMonthly": true,
+      "isDefault": false
+    }
   ]
 }
