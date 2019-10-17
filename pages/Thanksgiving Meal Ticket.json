@@ -9,7 +9,7 @@
     "messageSingular": ""
   },
   "nickname": "Thanksgiving Meal Ticket",
-  "customContent": "",
+  "customContent": "<p>1</p>",
   "defaultSegment": "A10192W",
   "emailNotRequired": false,
   "isInternal": false,

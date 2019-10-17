@@ -121,8 +121,8 @@ fields:
       required: true
   label: Custom Amount Options
 pages:
-- pages/Matching Gift Lead.json
 - pages/Thanksgiving Meal Ticket.json
+- pages/Matching Gift Lead.json
 - pages/choice.json
 - pages/70.json
 - pages/koin-internal.json
