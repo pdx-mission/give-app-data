@@ -1,0 +1,21 @@
+{
+  "displayLogo": true,
+  "customAmountOptions": {
+    "enabled": true,
+    "isMonthly": true,
+    "defaultAmount": 50,
+    "message": "Provides {{n}} meals and care",
+    "multiplier": 1,
+    "messageSingular": ""
+  },
+  "nickname": "Thanksgiving Meal Ticket",
+  "customContent": "",
+  "defaultSegment": "A10192W",
+  "emailNotRequired": false,
+  "isInternal": false,
+  "skipCvc": false,
+  "useIncentives": false,
+  "presets": [
+
+  ]
+}
