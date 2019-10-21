@@ -33,6 +33,12 @@
       "message": "Cares for 45 People in Crisis",
       "isMonthly": true,
       "isDefault": false
+    },
+    {
+      "amount": "209.00",
+      "message": "Helps 100 Neighbors in Need",
+      "isMonthly": true,
+      "isDefault": false
     }
   ]
 }

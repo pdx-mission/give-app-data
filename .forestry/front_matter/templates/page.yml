@@ -123,8 +123,8 @@ fields:
 pages:
 - pages/koin.json
 - pages/MGL.json
-- pages/TMT.json
 - pages/MGLR.json
+- pages/TMT.json
 - pages/choice.json
 - pages/gp.json
 - pages/form.json
