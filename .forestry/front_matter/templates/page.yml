@@ -123,7 +123,7 @@ fields:
 pages:
 - pages/koin.json
 - pages/Thanksgiving Meal Ticket.json
-- pages/Matching Gift Lead.json
+- pages/MGL.json
 - pages/MGLR.json
 - pages/choice.json
 - pages/gp.json
