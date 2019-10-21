@@ -121,15 +121,15 @@ fields:
       required: true
   label: Custom Amount Options
 pages:
+- pages/koin.json
 - pages/Thanksgiving Meal Ticket.json
 - pages/Matching Gift Lead.json
 - pages/choice.json
-- pages/70.json
-- pages/koin-internal.json
-- pages/koin.json
-- pages/yourchoice.json
-- pages/falltg.json
-- pages/fallnl.json
-- pages/thanksgivingcountdown.json
 - pages/gp.json
 - pages/form.json
+- pages/fallnl.json
+- pages/70.json
+- pages/koin-internal.json
+- pages/thanksgivingcountdown.json
+- pages/falltg.json
+- pages/yourchoice.json
