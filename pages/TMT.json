@@ -20,7 +20,7 @@
       "amount": 31.35,
       "message": "Provides 15 Thanksgiving Meals",
       "isMonthly": true,
-      "isDefault": false
+      "isDefault": true
     },
     {
       "amount": "62.70",
