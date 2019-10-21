@@ -27,6 +27,12 @@
       "message": "Feeds 30 Hungry Men and Women",
       "isMonthly": true,
       "isDefault": false
+    },
+    {
+      "amount": 94.05,
+      "message": "Cares for 45 People in Crisis",
+      "isMonthly": true,
+      "isDefault": false
     }
   ]
 }
