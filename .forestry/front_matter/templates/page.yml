@@ -122,7 +122,6 @@ fields:
   label: Custom Amount Options
 pages:
 - pages/koin.json
-- pages/MGLR.json
 - pages/TMT.json
 - pages/MGL.json
 - pages/choice.json
