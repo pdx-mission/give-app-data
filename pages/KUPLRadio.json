@@ -9,7 +9,7 @@
     "messageSingular": ""
   },
   "nickname": "Alpha Media KUPL Radio",
-  "customContent": "<p><img src=\"https://give.data.portlandrescuemission.org/media/Alpha_Joshua_Fence-2.JPG\">Insert Copy Here</p>",
+  "customContent": "<p><img src=\"https://give.data.portlandrescuemission.org/media/Alpha_Joshua_Fence-2.JPG\"></p><p><a href=\"https://give.data.portlandrescuemission.org/media/Joshua's Story Of Hope.mp4\" title=\"Joshua's Story Of Hope.mp4\">Joshua's Story Of Hope.mp4</a></p><p>Insert Copy Here</p>",
   "defaultSegment": "R11192",
   "emailNotRequired": false,
   "isInternal": false,
