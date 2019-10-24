@@ -1,0 +1,21 @@
+{
+  "displayLogo": true,
+  "customAmountOptions": {
+    "enabled": true,
+    "isMonthly": true,
+    "defaultAmount": 50,
+    "message": "Provides {{n}} meals and care",
+    "multiplier": 1,
+    "messageSingular": ""
+  },
+  "nickname": "Alpha Media Kink FM Radio",
+  "customContent": "<p><img src=\"https://give.data.portlandrescuemission.org/media/Alpha_Joshua_Fence-1.JPG\"></p><p>Insert Copy Here</p>",
+  "defaultSegment": "R11191",
+  "emailNotRequired": false,
+  "isInternal": false,
+  "skipCvc": false,
+  "useIncentives": false,
+  "presets": [
+
+  ]
+}
