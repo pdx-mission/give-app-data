@@ -128,7 +128,7 @@ pages:
 - pages/gp.json
 - pages/KinkRadio.json
 - pages/KinkWeb.json
-- pages/KUPLWeb.json
+- pages/KuplWeb.json
 - pages/KuplRadio.json
 - pages/form.json
 - pages/fallnl.json
