@@ -126,6 +126,7 @@ pages:
 - pages/TMT.json
 - pages/choice.json
 - pages/gp.json
+- pages/KinkWeb.json
 - pages/form.json
 - pages/fallnl.json
 - pages/70.json

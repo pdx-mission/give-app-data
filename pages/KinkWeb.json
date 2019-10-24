@@ -1,0 +1,21 @@
+{
+  "displayLogo": true,
+  "customAmountOptions": {
+    "enabled": true,
+    "isMonthly": true,
+    "defaultAmount": 50,
+    "message": "Provides {{n}} meals and care",
+    "multiplier": 1,
+    "messageSingular": ""
+  },
+  "nickname": "Alpha Media Kink FM Web",
+  "customContent": "<p><a href=\"https://give.data.portlandrescuemission.org/media/Joshua's Story Of Hope.mp4\" title=\"Joshua's Story Of Hope.mp4\">Joshua's Story Of Hope.mp4</a></p><p>Insert Copy Here</p>",
+  "defaultSegment": "D11192",
+  "emailNotRequired": false,
+  "isInternal": false,
+  "skipCvc": false,
+  "useIncentives": false,
+  "presets": [
+
+  ]
+}
