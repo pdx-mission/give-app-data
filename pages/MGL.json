@@ -2,8 +2,8 @@
   "displayLogo": true,
   "customAmountOptions": {
     "enabled": true,
-    "isMonthly": false,
-    "defaultAmount": 50,
+    "isMonthly": true,
+    "defaultAmount": 0,
     "message": "",
     "multiplier": 1,
     "messageSingular": ""
