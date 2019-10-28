@@ -16,6 +16,11 @@
   "skipCvc": false,
   "useIncentives": false,
   "presets": [
-
+    {
+      "amount": 0,
+      "message": "to help as much as possible",
+      "isMonthly": true,
+      "isDefault": true
+    }
   ]
 }
