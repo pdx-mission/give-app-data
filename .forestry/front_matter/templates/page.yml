@@ -129,7 +129,6 @@ pages:
 - pages/KinkRadio.json
 - pages/KinkWeb.json
 - pages/KuplWeb.json
-- pages/KuplRadio.json
 - pages/form.json
 - pages/fallnl.json
 - pages/70.json
@@ -137,3 +136,4 @@ pages:
 - pages/thanksgivingcountdown.json
 - pages/falltg.json
 - pages/yourchoice.json
+- pages/KuplRadio.json
