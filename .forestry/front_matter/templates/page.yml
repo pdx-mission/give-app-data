@@ -121,21 +121,21 @@ fields:
       required: true
   label: Custom Amount Options
 pages:
-- pages/koin.json
+- pages/KinkRadio.json
+- pages/gateway.json
+- pages/phone.json
+- pages/BullWeb.json
+- pages/BullRadio.json
 - pages/MGL.json
+- pages/KinkWeb.json
+- pages/70.json
 - pages/TMT.json
 - pages/choice.json
-- pages/gp.json
-- pages/KinkRadio.json
-- pages/KinkWeb.json
-- pages/form.json
-- pages/fallnl.json
-- pages/70.json
 - pages/koin-internal.json
-- pages/thanksgivingcountdown.json
-- pages/falltg.json
+- pages/koin.json
 - pages/yourchoice.json
-- pages/BullRadio.json
-- pages/BullWeb.json
-- pages/phone.json
-- pages/gateway.json
+- pages/falltg.json
+- pages/fallnl.json
+- pages/thanksgivingcountdown.json
+- pages/gp.json
+- pages/form.json
