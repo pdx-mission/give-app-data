@@ -121,12 +121,12 @@ fields:
       required: true
   label: Custom Amount Options
 pages:
+- pages/BullWeb.json
 - pages/BullRadio.json
 - pages/KinkWeb.json
 - pages/KinkRadio.json
 - pages/gateway.json
 - pages/phone.json
-- pages/BullWeb.json
 - pages/MGL.json
 - pages/70.json
 - pages/TMT.json
