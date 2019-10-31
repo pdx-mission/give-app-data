@@ -1,0 +1,21 @@
+{
+  "displayLogo": true,
+  "customAmountOptions": {
+    "enabled": true,
+    "isMonthly": false,
+    "defaultAmount": 50,
+    "message": "",
+    "multiplier": 1,
+    "messageSingular": ""
+  },
+  "nickname": "Gateway Telemarketing - Staff",
+  "customContent": "",
+  "defaultSegment": "P11191",
+  "emailNotRequired": true,
+  "isInternal": false,
+  "skipCvc": true,
+  "useIncentives": false,
+  "presets": [
+
+  ]
+}
