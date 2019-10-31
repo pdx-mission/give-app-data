@@ -1,0 +1,21 @@
+{
+  "displayLogo": true,
+  "customAmountOptions": {
+    "enabled": true,
+    "isMonthly": false,
+    "defaultAmount": 50,
+    "message": "",
+    "multiplier": 1,
+    "messageSingular": ""
+  },
+  "nickname": "Gateway Telemarketing – Follow Up Email",
+  "customContent": "",
+  "defaultSegment": "P11192",
+  "emailNotRequired": false,
+  "isInternal": false,
+  "skipCvc": false,
+  "useIncentives": false,
+  "presets": [
+
+  ]
+}
