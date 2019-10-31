@@ -16,8 +16,8 @@
   "useIncentives": false,
   "presets": [
     {
-      "amount": 16,
-      "message": "Provides meals and care for 120 people every year",
+      "amount": 12,
+      "message": "Provides shelter, meals and care for 1 person",
       "isMonthly": true,
       "isDefault": true
     },
