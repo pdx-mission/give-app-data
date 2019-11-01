@@ -126,8 +126,8 @@ fields:
       required: true
   label: Custom Amount Options
 pages:
-- pages/BullRadio.json
 - pages/KinkWeb.json
+- pages/BullRadio.json
 - pages/gateway.json
 - pages/TMT.json
 - pages/70.json
