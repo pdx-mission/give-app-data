@@ -4,7 +4,7 @@
     "enabled": true,
     "isMonthly": true,
     "defaultAmount": 50,
-    "message": "Provides {{n}} meals and care",
+    "message": "",
     "multiplier": 1,
     "messageSingular": ""
   },

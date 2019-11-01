@@ -4,9 +4,9 @@
     "enabled": true,
     "isMonthly": true,
     "defaultAmount": 50,
-    "message": "Provides {{n}} meals and care",
+    "message": "",
     "multiplier": 0.4784689,
-    "messageSingular": "Provides 1 meal and care"
+    "messageSingular": ""
   },
   "nickname": "Default",
   "customContent": "",

@@ -4,9 +4,9 @@
     "enabled": true,
     "isMonthly": true,
     "defaultAmount": 50,
-    "message": "Provides {{n}} meals and care",
+    "message": "",
     "multiplier": 2.09,
-    "messageSingular": "Provides 1 meal and care"
+    "messageSingular": ""
   },
   "nickname": "Thanksgiving Countdown",
   "customContent": "<p><img src=\"https://give.data.portlandrescuemission.org/media/countdown_36986.png\"></p><p>Thank you for stocking our pantry with very special holiday meals! As we count down to Thanksgiving, your support is especially critical because it will help us serve 83,000 meals… or more importantly, that one meal that will start another man or woman on a path toward a new life.</p><p>Help fill our pantry and continue to nourish the body and feed the soul of every guest we meet this fall.</p>",
@@ -15,7 +15,5 @@
   "isInternal": false,
   "skipCvc": false,
   "useIncentives": false,
-  "presets": [
-
-  ]
+  "presets": []
 }
