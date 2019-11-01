@@ -126,9 +126,9 @@ fields:
       required: true
   label: Custom Amount Options
 pages:
+- pages/KinkWeb.json
 - pages/KinkRadio.json
 - pages/TMT.json
-- pages/KinkWeb.json
 - pages/thanksgivingcountdown.json
 - pages/BullRadio.json
 - pages/form.json
