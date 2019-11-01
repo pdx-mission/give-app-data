@@ -126,6 +126,7 @@ fields:
       required: true
   label: Custom Amount Options
 pages:
+- pages/KinkRadio.json
 - pages/KinkWeb.json
 - pages/BullRadio.json
 - pages/gateway.json
@@ -135,7 +136,6 @@ pages:
 - pages/MGL.json
 - pages/form.json
 - pages/BullWeb.json
-- pages/KinkRadio.json
 - pages/phone.json
 - pages/koin-internal.json
 - pages/koin.json

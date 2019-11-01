@@ -9,7 +9,7 @@
     "messageSingular": ""
   },
   "nickname": "Alpha Media Kink FM Radio",
-  "customContent": "<p></p><p><img src=\"https://give.data.portlandrescuemission.org/media/Joshua_LandingPage970x415.jpg\"></p><p>In Portland, over 4,000 people live in hopelessness and desperation on the streets.</p><p class=\"MsoNormal\">And you can make a difference.</p><p class=\"MsoNormal\">Every $12 you gift provides one full night of shelter, meals and restorative care – the first step to a second chance for people in need.</p><p class=\"MsoNormal\"><strong>Over 81% of people who graduate from a Portland Rescue Mission Restoration program are addiction-free and in housing three years after graduation.</strong></p><p class=\"MsoNormal\">Thank you for giving hope this holiday season and all year long.</p><p><a href=\"https://www.youtube.com/watch?v=0udpKnEvjGg&amp;feature=youtu.be\" title=\"Joshua's Journey from Homelessness\">Click Here to watch Joshua's Journey from Homelessness.</a></p>",
+  "customContent": "<p>In Portland, over 4,000 people live in hopelessness and desperation on the streets.</p><p class=\"MsoNormal\">And you can make a difference.</p><p class=\"MsoNormal\">Every $12 you gift provides one full night of shelter, meals and restorative care – the first step to a second chance for people in need.</p><p class=\"MsoNormal\"><strong>Over 81% of people who graduate from a Portland Rescue Mission Restoration program are addiction-free and in housing three years after graduation.</strong></p><p class=\"MsoNormal\">Thank you for giving hope this holiday season and all year long.</p>",
   "defaultSegment": "R11191",
   "emailNotRequired": false,
   "isInternal": false,
@@ -17,5 +17,6 @@
   "useIncentives": false,
   "presets": [
 
-  ]
+  ],
+  "video_id": "0udpKnEvjGg"
 }
