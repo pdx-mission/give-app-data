@@ -3,139 +3,139 @@ label: Page
 hide_body: true
 display_field: nickname
 fields:
-- name: nickname
-  type: text
-  config:
-    required: true
-  label: Nickname
-- name: customContent
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: true
-    schema:
-      format: html-blocks
-  label: Custom Content
-- name: defaultSegment
-  type: text
-  config:
-    required: true
-  label: Default Segment
-  description: E.g. T10191
-  default: ''
-- name: displayLogo
-  type: boolean
-  label: Display Logo
-  default: true
-- name: emailNotRequired
-  type: boolean
-  label: Email Not Required
-  description: Check this to waive email requirement
-- name: isInternal
-  type: boolean
-  label: Is Internal
-- name: skipCvc
-  type: boolean
-  label: Skip CVC
-  description: Remove card verification code field
-- name: useIncentives
-  type: boolean
-  label: Use Incentives
-- name: presets
-  type: field_group_list
-  fields:
-  - name: amount
-    type: number
-    label: Amount
-    description: ''
-    default: 0
-    required: true
-    config:
-      min: '0'
-      max: 
-      step: 
-      required: true
-  - name: message
+  - name: nickname
     type: text
     config:
-      required: false
-    label: Message
-  - name: isMonthly
-    type: boolean
-    label: Monthly
-    default: true
-  - name: isDefault
-    type: boolean
-    label: Default
-  config:
-    min: 
-    max: 
-    labelField: 
-  label: Presets
-- name: customAmountOptions
-  type: field_group
-  config: {}
-  fields:
-  - name: enabled
-    type: boolean
-    label: Enabled
-    default: true
-    hidden: true
-  - name: isMonthly
-    type: boolean
-    label: Default to Monthly
-    default: true
-  - name: defaultAmount
-    type: number
-    label: Default Amount
-    description: ''
-    default: '50'
-    required: true
-    config:
-      min: '0'
-      max: 
-      step: 
       required: true
-  - name: message
+    label: Nickname
+  - name: customContent
+    type: textarea
+    default: ""
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: html-blocks
+    label: Custom Content
+  - name: defaultSegment
     type: text
     config:
-      required: false
-    label: Message
-    default: Provides {{n}} meals and care
-  - name: messageSingular
-    type: text
-    config:
-      required: false
-    label: Message (Singular)
-  - name: multiplier
-    type: number
-    label: Multiplier
-    description: "{{ multiplier }} x {{ amount }} = {{ n }}"
-    default: '1'
-    required: true
-    config:
-      min: '0'
-      max: 
-      step: 
       required: true
-  label: Custom Amount Options
+    label: Default Segment
+    description: E.g. T10191
+    default: ""
+  - name: displayLogo
+    type: boolean
+    label: Display Logo
+    default: true
+  - name: emailNotRequired
+    type: boolean
+    label: Email Not Required
+    description: Check this to waive email requirement
+  - name: isInternal
+    type: boolean
+    label: Is Internal
+  - name: skipCvc
+    type: boolean
+    label: Skip CVC
+    description: Remove card verification code field
+  - name: useIncentives
+    type: boolean
+    label: Use Incentives
+  - name: presets
+    type: field_group_list
+    fields:
+      - name: amount
+        type: number
+        label: Amount
+        description: ""
+        default: 0
+        required: true
+        config:
+          min: "0"
+          max:
+          step:
+          required: true
+      - name: message
+        type: text
+        config:
+          required: false
+        label: Message
+      - name: isMonthly
+        type: boolean
+        label: Monthly
+        default: true
+      - name: isDefault
+        type: boolean
+        label: Default
+    config:
+      min:
+      max:
+      labelField:
+    label: Presets
+  - name: customAmountOptions
+    type: field_group
+    config: {}
+    fields:
+      - name: enabled
+        type: boolean
+        label: Enabled
+        default: true
+        hidden: true
+      - name: isMonthly
+        type: boolean
+        label: Default to Monthly
+        default: true
+      - name: defaultAmount
+        type: number
+        label: Default Amount
+        description: ""
+        default: "50"
+        required: true
+        config:
+          min: "0"
+          max:
+          step:
+          required: true
+      - name: message
+        type: text
+        config:
+          required: false
+        label: Message
+        default: ""
+      - name: messageSingular
+        type: text
+        config:
+          required: false
+        label: Message (Singular)
+      - name: multiplier
+        type: number
+        label: Multiplier
+        description: "{{ multiplier }} x {{ amount }} = {{ n }}"
+        default: "1"
+        required: true
+        config:
+          min: "0"
+          max:
+          step:
+          required: true
+    label: Custom Amount Options
 pages:
-- pages/form.json
-- pages/BullWeb.json
-- pages/BullRadio.json
-- pages/KinkWeb.json
-- pages/KinkRadio.json
-- pages/gateway.json
-- pages/phone.json
-- pages/MGL.json
-- pages/70.json
-- pages/TMT.json
-- pages/choice.json
-- pages/koin-internal.json
-- pages/koin.json
-- pages/yourchoice.json
-- pages/falltg.json
-- pages/fallnl.json
-- pages/thanksgivingcountdown.json
-- pages/gp.json
+  - pages/form.json
+  - pages/BullWeb.json
+  - pages/BullRadio.json
+  - pages/KinkWeb.json
+  - pages/KinkRadio.json
+  - pages/gateway.json
+  - pages/phone.json
+  - pages/MGL.json
+  - pages/70.json
+  - pages/TMT.json
+  - pages/choice.json
+  - pages/koin-internal.json
+  - pages/koin.json
+  - pages/yourchoice.json
+  - pages/falltg.json
+  - pages/fallnl.json
+  - pages/thanksgivingcountdown.json
+  - pages/gp.json
