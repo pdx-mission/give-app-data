@@ -1,0 +1,45 @@
+{
+  "displayLogo": true,
+  "customAmountOptions": {
+    "enabled": true,
+    "isMonthly": true,
+    "defaultAmount": 50,
+    "multiplier": 1,
+    "message": "",
+    "messageSingular": ""
+  },
+  "nickname": "Holiday Newsletter",
+  "customContent": "<p><strong><em>\"I just wanted to be safe with my kids.\"</em></strong></p><p>After leaving an abusive relationship, Stephanie found herself living out of her car with her children. After losing custody of her son and the car she was living in, she felt hopeless and lost.</p><p>Hungry and exhausted, Stephanie found her way to Portland Rescue Mission for help and a nice hot meal.</p><p>Thanks to your volunteer and financial support, Stephanie is a graduate of Shepherd's door and lives with her children in one of our Community Houses. </p><p><strong>\"I'm just happy. I feel so blessed to be where I am right now. Thank you!\" </strong></p>",
+  "defaultSegment": "N11191W",
+  "video_id": "",
+  "emailNotRequired": false,
+  "isInternal": false,
+  "skipCvc": false,
+  "useIncentives": false,
+  "presets": [
+    {
+      "amount": 12,
+      "message": "Provides shelter, meals and care for 1 person",
+      "isMonthly": true,
+      "isDefault": false
+    },
+    {
+      "amount": 24,
+      "message": "Provides shelter, meals and care for 2 people",
+      "isMonthly": true,
+      "isDefault": false
+    },
+    {
+      "amount": 48,
+      "message": "Provides shelter, meals and care for 4 people",
+      "isMonthly": true,
+      "isDefault": false
+    },
+    {
+      "amount": 96,
+      "message": "Provides shelter, meals and care for 8 people",
+      "isMonthly": true,
+      "isDefault": false
+    }
+  ]
+}

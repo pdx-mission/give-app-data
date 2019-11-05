@@ -126,6 +126,7 @@ fields:
       required: true
   label: Custom Amount Options
 pages:
+- pages/holidaynl.json
 - pages/gateway-1.json
 - pages/BullWeb.json
 - pages/BullRadio.json
