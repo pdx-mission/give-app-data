@@ -21,7 +21,7 @@
       "amount": 24,
       "message": "",
       "isMonthly": true,
-      "isDefault": false
+      "isDefault": true
     },
     {
       "message": "",
