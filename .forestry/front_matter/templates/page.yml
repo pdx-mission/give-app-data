@@ -126,8 +126,8 @@ fields:
       required: true
   label: Custom Amount Options
 pages:
-- pages/christmasmeal.json
 - pages/holidaymeal.json
+- pages/christmasmeal.json
 - pages/InternalFISH.json
 - pages/FISH.json
 - pages/inn.json
