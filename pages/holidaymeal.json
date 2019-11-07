@@ -1,0 +1,22 @@
+{
+  "displayLogo": true,
+  "customAmountOptions": {
+    "enabled": true,
+    "isMonthly": true,
+    "defaultAmount": 50,
+    "multiplier": 1,
+    "message": "",
+    "messageSingular": ""
+  },
+  "nickname": "Christmas FW Meal Tix",
+  "customContent": "<p><img src=\"https://give.data.portlandrescuemission.org/media/PRM Christmas Acq Meal Ticket - Landing Page Header.jpg\"></p><h5><strong>Help Hungry People This Christmas</strong></h5><h5><strong>No one should be cold, hungry and alone at Christmas.</strong><br><br>Every $2.09 you give provides a hot, holiday meal for a man, woman or child in their time of need.<br><br>For some, that warm welcome at Portland Rescue Mission will be their first step toward a new life.<br><br><strong>Please help as generously as you can to share God's love this Christmas!</strong></h5>",
+  "defaultSegment": "Q11191W",
+  "video_id": "",
+  "emailNotRequired": false,
+  "isInternal": false,
+  "skipCvc": false,
+  "useIncentives": false,
+  "presets": [
+
+  ]
+}
