@@ -126,6 +126,7 @@ fields:
       required: true
   label: Custom Amount Options
 pages:
+- pages/InternalFISH.json
 - pages/FISH.json
 - pages/inn.json
 - pages/room.json

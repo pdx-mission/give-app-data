@@ -1,0 +1,22 @@
+{
+  "displayLogo": true,
+  "customAmountOptions": {
+    "enabled": true,
+    "isMonthly": true,
+    "defaultAmount": 50,
+    "multiplier": 1,
+    "message": "",
+    "messageSingular": ""
+  },
+  "nickname": "KFIS Radiothon Internal",
+  "customContent": "<p><img src=\"https://give.data.portlandrescuemission.org/media/1200x600.png\"></p>",
+  "defaultSegment": "R11198",
+  "video_id": "",
+  "emailNotRequired": false,
+  "isInternal": false,
+  "skipCvc": true,
+  "useIncentives": false,
+  "presets": [
+
+  ]
+}
