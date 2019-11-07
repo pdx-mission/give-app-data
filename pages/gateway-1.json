@@ -17,6 +17,29 @@
   "skipCvc": false,
   "useIncentives": false,
   "presets": [
-
+    {
+      "amount": 12,
+      "message": "Provides shelter, meals and are for 1 person",
+      "isMonthly": true,
+      "isDefault": false
+    },
+    {
+      "message": "Provides shelter, meals and care for 2 people",
+      "isMonthly": true,
+      "isDefault": false,
+      "amount": 24
+    },
+    {
+      "amount": 48,
+      "message": "Provides shelter, meals and care for 4 people",
+      "isMonthly": true,
+      "isDefault": false
+    },
+    {
+      "message": "Provides shelter, meals and care for 8 people",
+      "isMonthly": true,
+      "isDefault": false,
+      "amount": 96
+    }
   ]
 }
