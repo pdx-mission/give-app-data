@@ -126,12 +126,12 @@ fields:
       required: true
   label: Custom Amount Options
 pages:
+- pages/room.json
 - pages/holidaymeal.json
 - pages/christmasmeal.json
 - pages/InternalFISH.json
 - pages/FISH.json
 - pages/inn.json
-- pages/room.json
 - pages/gateway-1.json
 - pages/holidaynl.json
 - pages/BullWeb.json
