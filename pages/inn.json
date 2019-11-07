@@ -1,0 +1,22 @@
+{
+  "displayLogo": true,
+  "customAmountOptions": {
+    "enabled": true,
+    "isMonthly": true,
+    "defaultAmount": 50,
+    "multiplier": 1,
+    "message": "",
+    "messageSingular": ""
+  },
+  "nickname": "Room at the Inna - Test",
+  "customContent": "<p><img src=\"https://give.data.portlandrescuemission.org/media/2019-PRM-RATI-Test---Landing-Page-Header.jpg\"></p><h4>No one should have to spend Christmas cold, hungry and alone.<br><br>Your gift today shares God's love and warm hospitality this Christmas season at Portland Rescue Mission! <br><br>Please help as generously as you can to provide people in need with meals, shelter and loving care.<br></h4>",
+  "defaultSegment": "A11192",
+  "video_id": "",
+  "emailNotRequired": false,
+  "isInternal": false,
+  "skipCvc": false,
+  "useIncentives": false,
+  "presets": [
+
+  ]
+}

@@ -126,6 +126,7 @@ fields:
       required: true
   label: Custom Amount Options
 pages:
+- pages/inn.json
 - pages/room.json
 - pages/gateway-1.json
 - pages/holidaynl.json
