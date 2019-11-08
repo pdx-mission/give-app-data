@@ -17,6 +17,23 @@
   "skipCvc": false,
   "useIncentives": false,
   "presets": [
-
+    {
+      "amount": 25.08,
+      "message": "to provide 12 meals and care",
+      "isMonthly": false,
+      "isDefault": true
+    },
+    {
+      "amount": 48.07,
+      "message": "to provide 23 meals and care",
+      "isMonthly": false,
+      "isDefault": false
+    },
+    {
+      "amount": 94.05,
+      "message": "to provide 45 meals and care",
+      "isMonthly": false,
+      "isDefault": false
+    }
   ]
 }

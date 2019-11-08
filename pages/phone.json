@@ -16,6 +16,29 @@
   "skipCvc": false,
   "useIncentives": false,
   "presets": [
-
+    {
+      "amount": 24,
+      "message": "to provide a night of shelter, meals and care for 2 people",
+      "isMonthly": false,
+      "isDefault": true
+    },
+    {
+      "amount": 60,
+      "message": "to provide a night of shelter, meals and care for 5 people",
+      "isMonthly": false,
+      "isDefault": true
+    },
+    {
+      "amount": 120,
+      "message": "to provide a night of shelter, meals and care for 10 people",
+      "isMonthly": false,
+      "isDefault": false
+    },
+    {
+      "amount": 240,
+      "message": "to provide a night of shelter, meals and care for 20 people",
+      "isMonthly": false,
+      "isDefault": false
+    }
   ]
 }
