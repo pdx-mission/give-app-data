@@ -21,7 +21,7 @@
       "amount": 12,
       "message": "Provides shelter, meals and care for 1 person",
       "isMonthly": true,
-      "isDefault": false
+      "isDefault": true
     },
     {
       "amount": 24,

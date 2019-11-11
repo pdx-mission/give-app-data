@@ -126,14 +126,15 @@ fields:
       required: true
   label: Custom Amount Options
 pages:
-- pages/inn.json
-- pages/room.json
+- pages/holidaynl.json
+- pages/FISH.json
 - pages/holidaymeal.json
 - pages/christmasmeal.json
-- pages/InternalFISH.json
-- pages/FISH.json
+- pages/phone.json
 - pages/gateway-1.json
-- pages/holidaynl.json
+- pages/inn.json
+- pages/room.json
+- pages/InternalFISH.json
 - pages/BullWeb.json
 - pages/BullRadio.json
 - pages/KinkWeb.json
@@ -145,7 +146,6 @@ pages:
 - pages/70.json
 - pages/choice.json
 - pages/MGL.json
-- pages/phone.json
 - pages/koin-internal.json
 - pages/koin.json
 - pages/yourchoice.json
