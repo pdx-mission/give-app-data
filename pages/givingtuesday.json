@@ -9,7 +9,7 @@
     "messageSingular": ""
   },
   "nickname": "Giving Tuesday",
-  "customContent": "",
+  "customContent": "<p>Thanks for giving!</p>",
   "defaultSegment": "D11195",
   "video_id": "",
   "emailNotRequired": false,
