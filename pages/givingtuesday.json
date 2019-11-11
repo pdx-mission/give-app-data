@@ -9,7 +9,7 @@
     "messageSingular": ""
   },
   "nickname": "Giving Tuesday",
-  "customContent": "<p>Thanks for giving!</p>",
+  "customContent": "<p><a href=\"https://give.data.portlandrescuemission.org/media/GT-logo.eps\" title=\"GT-logo.eps\">GT-logo.eps</a></p>",
   "defaultSegment": "D11195",
   "video_id": "",
   "emailNotRequired": false,
