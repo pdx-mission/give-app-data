@@ -126,6 +126,8 @@ fields:
       required: true
   label: Custom Amount Options
 pages:
+- pages/BullWeb.json
+- pages/BullRadio.json
 - pages/KinkWeb.json
 - pages/KinkRadio.json
 - pages/givingtuesday.json
@@ -139,8 +141,6 @@ pages:
 - pages/inn.json
 - pages/room.json
 - pages/InternalFISH.json
-- pages/BullWeb.json
-- pages/BullRadio.json
 - pages/TMT.json
 - pages/thanksgivingcountdown.json
 - pages/form.json
