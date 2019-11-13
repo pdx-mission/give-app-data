@@ -126,8 +126,8 @@ fields:
       required: true
   label: Custom Amount Options
 pages:
-- pages/katuholiday-int.json
 - pages/katuholiday.json
+- pages/katuholiday-int.json
 - pages/holidaynl.json
 - pages/givingtuesday.json
 - pages/BullWeb.json

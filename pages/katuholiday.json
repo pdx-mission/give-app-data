@@ -9,11 +9,11 @@
     "messageSingular": "provides shelter, meals and care for 1 person"
   },
   "nickname": "KATU Hope for the Holidays Telethon",
-  "customContent": "<p><img src=\"https://give.data.portlandrescuemission.org/media/42-katu-hope-for-the-holidays.jpg\"></p><h3>Give Hope for the Holidays!</h3><p>Homelessness hurts, especially during the holidays. You can end the pain of homelessness and hunger. Give a hot, holiday meal to a hungry man, woman or child today!</p><p><strong>Your gift today gives hope to so many people in our community, as well as the first steps to a second chance in life.</strong></p><p>If your gift exceeds $24 a month or a $250 one time gift, you can receive one or more $20 gift cards to Fred Meyer! Be aware that the tax-deductible portion of your gift is reduced by the total face value of any gift cards you receive. <a href=\"/gift-card-information\">Learn more about gift cards</a>.</p>",
+  "customContent": "<p><img src=\"https://give.data.portlandrescuemission.org/media/42-katu-hope-for-the-holidays.jpg\"></p><h3>Give Hope for the Holidays!</h3><p>Homelessness hurts, especially during the holidays. You can end the pain of homelessness and hunger. Give a hot, holiday meal to a hungry man, woman or child today!</p><p><strong>Your gift today gives hope to so many people in our community, as well as the first steps to a second chance in life.</strong></p>",
   "emailNotRequired": false,
   "isInternal": false,
   "skipCvc": false,
-  "useIncentives": true,
+  "useIncentives": false,
   "presets": [
     {
       "amount": 24,
