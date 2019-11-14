@@ -37,7 +37,7 @@
       "amount": 24,
       "message": "",
       "isMonthly": true,
-      "isDefault": true
+      "isDefault": false
     }
   ],
   "defaultSegment": "T12191",
