@@ -22,20 +22,20 @@
       "isDefault": false
     },
     {
-      "message": "provides shelter, meals and care for 48 people every year",
+      "message": "",
       "isMonthly": true,
       "isDefault": false,
       "amount": 48
     },
     {
-      "message": "provides shelter, meals and care for 36 people every year",
+      "message": "",
       "isMonthly": true,
       "isDefault": false,
       "amount": 36
     },
     {
       "amount": 24,
-      "message": "provides shelter, meals and care for 24 people every year",
+      "message": "",
       "isMonthly": true,
       "isDefault": true
     }
