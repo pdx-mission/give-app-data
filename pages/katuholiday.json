@@ -30,7 +30,7 @@
     {
       "message": "",
       "isMonthly": true,
-      "isDefault": false,
+      "isDefault": true,
       "amount": 36
     },
     {
