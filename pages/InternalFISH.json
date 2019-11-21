@@ -2,8 +2,8 @@
   "displayLogo": true,
   "customAmountOptions": {
     "enabled": true,
-    "isMonthly": true,
-    "defaultAmount": 50,
+    "isMonthly": false,
+    "defaultAmount": 12,
     "multiplier": 1,
     "message": "",
     "messageSingular": ""
@@ -12,7 +12,7 @@
   "customContent": "<p><img src=\"https://give.data.portlandrescuemission.org/media/1200x600.png\"></p><p><a href=\"https://pdxmission.wufoo.com/forms/xgbhsos1wrh7m3/\" title=\"\">Click here for Pledges</a></p>",
   "defaultSegment": "R11198",
   "video_id": "",
-  "emailNotRequired": false,
+  "emailNotRequired": true,
   "isInternal": false,
   "skipCvc": true,
   "useIncentives": false,
