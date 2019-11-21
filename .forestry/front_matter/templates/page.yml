@@ -126,6 +126,7 @@ fields:
       required: true
   label: Custom Amount Options
 pages:
+- pages/InternalFISH.json
 - pages/BullWeb.json
 - pages/BullRadio.json
 - pages/KinkWeb.json
@@ -142,7 +143,6 @@ pages:
 - pages/gateway-1.json
 - pages/inn.json
 - pages/room.json
-- pages/InternalFISH.json
 - pages/TMT.json
 - pages/thanksgivingcountdown.json
 - pages/form.json
