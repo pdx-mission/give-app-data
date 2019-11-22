@@ -126,7 +126,7 @@ fields:
       required: true
   label: Custom Amount Options
 pages:
-- pages/file.json
+- pages/knotsprings.json
 - pages/givingtuesday.json
 - pages/InternalFISH.json
 - pages/BullWeb.json
