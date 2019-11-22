@@ -126,6 +126,7 @@ fields:
       required: true
   label: Custom Amount Options
 pages:
+- pages/givingtuesday.json
 - pages/InternalFISH.json
 - pages/BullWeb.json
 - pages/BullRadio.json
@@ -134,7 +135,6 @@ pages:
 - pages/katuholiday.json
 - pages/katuholiday-int.json
 - pages/holidaynl.json
-- pages/givingtuesday.json
 - pages/coffee.json
 - pages/FISH.json
 - pages/holidaymeal.json
