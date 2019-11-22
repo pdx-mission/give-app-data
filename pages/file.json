@@ -1,0 +1,46 @@
+{
+  "displayLogo": true,
+  "customAmountOptions": {
+    "enabled": true,
+    "isMonthly": true,
+    "defaultAmount": 50,
+    "multiplier": 1,
+    "message": "",
+    "messageSingular": ""
+  },
+  "nickname": "Giving Tuesday",
+  "customContent": "<p><img src=\"https://give.data.portlandrescuemission.org/media/GT-logo.png\"></p><p><img src=\"https://give.data.portlandrescuemission.org/media/20160809_gc_0824.jpg\"></p><h2><strong>December 3rd is a Day to Give Back</strong></h2><p>Homelessness hurts. The despair and loneliness are overwhelming. This #GivingTuesday you can give hope to those struggling in the darkness of homelessness.</p><p>Your $12 monthly gift provides a warm welcome, nutritious meal, a shower, clean clothes and a safe place to sleep - the first steps to a restored life.</p><p>Give back. Donate today and be a part of life change this <strong>#GivingTuesday</strong>.</p><p></p><p><br></p>",
+  "defaultSegment": "D11195",
+  "video_id": "",
+  "emailNotRequired": false,
+  "isInternal": false,
+  "skipCvc": false,
+  "useIncentives": false,
+  "presets": [
+    {
+      "message": "Provides shelter, meals and care for 1 person",
+      "isMonthly": true,
+      "isDefault": false,
+      "amount": 12
+    },
+    {
+      "message": "Provides shelter, meals and care for 2 people",
+      "isMonthly": true,
+      "isDefault": false,
+      "amount": 24
+    },
+    {
+      "message": "Provides shelter, meals and care for 4 people",
+      "isMonthly": true,
+      "isDefault": false,
+      "amount": 48
+    },
+    {
+      "message": "Provides shelter, meals and care for 8 people",
+      "isMonthly": true,
+      "isDefault": false,
+      "amount": 96
+    }
+  ],
+  "title": ""
+}
