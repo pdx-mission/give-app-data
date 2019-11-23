@@ -24,22 +24,22 @@
       "amount": 10
     },
     {
-      "message": "Provides shelter, meals and care for 2 people",
-      "isMonthly": true,
-      "isDefault": false,
-      "amount": 24
+      "message": "",
+      "isMonthly": false,
+      "isDefault": true,
+      "amount": 20
     },
     {
-      "message": "Provides shelter, meals and care for 4 people",
-      "isMonthly": true,
+      "message": "",
+      "isMonthly": false,
       "isDefault": false,
-      "amount": 48
+      "amount": 40
     },
     {
-      "message": "Provides shelter, meals and care for 8 people",
-      "isMonthly": true,
+      "message": "",
+      "isMonthly": false,
       "isDefault": false,
-      "amount": 96
+      "amount": 80
     }
   ],
   "title": ""
