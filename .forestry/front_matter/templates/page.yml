@@ -126,13 +126,13 @@ fields:
       required: true
   label: Custom Amount Options
 pages:
+- pages/BullWeb.json
 - pages/BullRadio.json
 - pages/KinkWeb.json
 - pages/KinkRadio.json
 - pages/givingtuesday.json
 - pages/knotsprings.json
 - pages/InternalFISH.json
-- pages/BullWeb.json
 - pages/katuholiday.json
 - pages/katuholiday-int.json
 - pages/holidaynl.json
