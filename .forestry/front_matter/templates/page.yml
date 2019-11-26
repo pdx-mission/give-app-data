@@ -126,6 +126,7 @@ fields:
       required: true
   label: Custom Amount Options
 pages:
+- pages/christmascard.json
 - pages/BullWeb.json
 - pages/BullRadio.json
 - pages/KinkWeb.json
