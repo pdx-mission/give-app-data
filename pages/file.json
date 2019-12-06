@@ -1,0 +1,22 @@
+{
+  "displayLogo": true,
+  "customAmountOptions": {
+    "enabled": true,
+    "isMonthly": false,
+    "defaultAmount": 0,
+    "message": "",
+    "multiplier": 1,
+    "messageSingular": ""
+  },
+  "nickname": "Matching Gift Lead",
+  "customContent": "<p><img src=\"https://give.data.portlandrescuemission.org/media/2019 PRM Matching Gift Lead - Landing Page Header.jpg\"></p><p></p><p>Your gift today will help establish our Matching Gift effort for the coming year. <strong><br></strong><br>Together, with other like-minded, generous partners, your donation will be used to inspire new people to give to Portland Rescue Mission. <br><br>Thank you for sparking this compassionate movement to end homelessness and addiction in the lives of people here in our community!</p>",
+  "defaultSegment": "A10193W",
+  "emailNotRequired": false,
+  "isInternal": false,
+  "skipCvc": false,
+  "useIncentives": false,
+  "presets": [
+
+  ],
+  "title": ""
+}
