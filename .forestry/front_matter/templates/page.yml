@@ -131,7 +131,7 @@ pages:
 - pages/koin.json
 - pages/christmascard.json
 - pages/room.json
-- pages/file.json
+- pages/yearend.json
 - pages/katuholiday.json
 - pages/inn.json
 - pages/gateway-1.json
