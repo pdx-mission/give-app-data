@@ -141,7 +141,6 @@ pages:
 - pages/coffee.json
 - pages/fallnl.json
 - pages/falltg.json
-- pages/file.json
 - pages/form.json
 - pages/gateway-1.json
 - pages/gateway.json
@@ -158,5 +157,6 @@ pages:
 - pages/phone.json
 - pages/room.json
 - pages/thanksgivingcountdown.json
+- pages/winternl.json
 - pages/yearend.json
 - pages/yourchoice.json
