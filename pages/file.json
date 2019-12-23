@@ -36,9 +36,9 @@
     },
     {
       "amount": 24,
-      "message": "provides meals and care for 24 people every year",
+      "message": "a month",
       "isMonthly": true,
-      "isDefault": true
+      "isDefault": false
     }
   ],
   "title": "",
