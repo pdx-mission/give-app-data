@@ -18,6 +18,18 @@
   "useIncentives": false,
   "presets": [
     {
+      "amount": 48,
+      "message": "for four nights of safe shelter",
+      "isMonthly": false,
+      "isDefault": true
+    },
+    {
+      "amount": 24,
+      "message": "for two nights of safe shelter",
+      "isMonthly": false,
+      "isDefault": false
+    },
+    {
       "amount": 12,
       "message": "for one night of safe shelter",
       "isMonthly": false,
