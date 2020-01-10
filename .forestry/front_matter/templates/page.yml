@@ -129,6 +129,7 @@ pages:
 - pages/70.json
 - pages/BullRadio.json
 - pages/BullWeb.json
+- pages/ColdWeather.json
 - pages/FISH.json
 - pages/InternalFISH.json
 - pages/KinkRadio.json
