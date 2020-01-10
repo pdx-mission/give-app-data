@@ -9,7 +9,7 @@
     "messageSingular": ""
   },
   "nickname": "2020 Cold Weather",
-  "customContent": "<p><img src=\"https://give.data.portlandrescuemission.org/media/iStock-599144140.jpg\"></p><p></p>",
+  "customContent": "<h1><strong>Can you help give neighbors warm, safe shelter from the cold?</strong></h1><p><br><img src=\"https://give.data.portlandrescuemission.org/media/iStock-599144140.jpg\"></p><p>Cold, wet weather is dangerous to people without shelter. Hunger, sickness, exposure, and despair are unrelenting.<br></p><p>Every $12 provides a night of warm, safe shelter for those without shelter from the bitter cold.</p><p><br></p>",
   "defaultSegment": " D01203",
   "video_id": "",
   "emailNotRequired": false,
@@ -17,6 +17,11 @@
   "skipCvc": false,
   "useIncentives": false,
   "presets": [
-
+    {
+      "amount": 12,
+      "message": "for one night of safe shelter",
+      "isMonthly": false,
+      "isDefault": false
+    }
   ]
 }
