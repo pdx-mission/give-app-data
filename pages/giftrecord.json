@@ -17,6 +17,11 @@
   "skipCvc": false,
   "useIncentives": false,
   "presets": [
-
+    {
+      "amount": 96,
+      "message": "",
+      "isMonthly": true,
+      "isDefault": false
+    }
   ]
 }
