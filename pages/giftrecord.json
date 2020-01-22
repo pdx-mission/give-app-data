@@ -18,6 +18,12 @@
   "useIncentives": false,
   "presets": [
     {
+      "amount": 48,
+      "message": "",
+      "isMonthly": true,
+      "isDefault": false
+    },
+    {
       "amount": 96,
       "message": "",
       "isMonthly": true,
