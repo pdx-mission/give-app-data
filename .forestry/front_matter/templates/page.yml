@@ -145,6 +145,7 @@ pages:
 - pages/form.json
 - pages/gateway-1.json
 - pages/gateway.json
+- pages/giftrecord.json
 - pages/givingtuesday.json
 - pages/gp.json
 - pages/holidaymeal.json
