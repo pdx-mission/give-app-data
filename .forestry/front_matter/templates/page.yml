@@ -145,7 +145,6 @@ pages:
 - pages/form.json
 - pages/gateway-1.json
 - pages/gateway.json
-- pages/giftrecord.json
 - pages/givingtuesday.json
 - pages/gp.json
 - pages/holidaymeal.json
@@ -161,4 +160,5 @@ pages:
 - pages/thanksgivingcountdown.json
 - pages/winternl.json
 - pages/yearend.json
+- pages/yearofhope.json
 - pages/yourchoice.json
