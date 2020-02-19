@@ -142,7 +142,6 @@ pages:
 - pages/coldweather.json
 - pages/fallnl.json
 - pages/falltg.json
-- pages/file.json
 - pages/form.json
 - pages/gateway-1.json
 - pages/gateway.json
@@ -153,6 +152,7 @@ pages:
 - pages/inn.json
 - pages/katuholiday-int.json
 - pages/katuholiday.json
+- pages/katushelter-int.json
 - pages/knotsprings.json
 - pages/koin-internal.json
 - pages/koin.json
