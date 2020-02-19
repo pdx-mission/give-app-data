@@ -150,7 +150,6 @@ pages:
 - pages/holidaymeal.json
 - pages/holidaynl.json
 - pages/inn.json
-- pages/katu.json
 - pages/katuholiday-int.json
 - pages/katuholiday.json
 - pages/knotsprings.json
@@ -158,6 +157,7 @@ pages:
 - pages/koin.json
 - pages/phone.json
 - pages/room.json
+- pages/shelterkatu.json
 - pages/thanksgivingcountdown.json
 - pages/winternl.json
 - pages/yearend.json
