@@ -68,4 +68,4 @@ fields:
     max: '4'
   label: Presets
 pages:
-- templates/default.json
+- templates/form5.json
