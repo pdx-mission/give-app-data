@@ -1,4 +1,61 @@
 ---
 label: Template
 hide_body: true
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
+- name: image
+  type: file
+  config:
+    maxSize: 250
+  label: Image
+- name: video
+  type: text
+  config:
+    required: false
+  label: Video
+  description: YouTube video URL
+- name: content
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: true
+    schema:
+      format: html-blocks
+  label: Content
+- name: require_email
+  type: boolean
+  label: Require Email
+  default: true
+- name: default_frequency
+  type: select
+  default: monthly
+  config:
+    required: true
+    options:
+    - monthly
+    - once
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Default Frequency
+- name: default_open_amount
+  type: number
+  label: Default Open Amount
+  description: ''
+  default: '50'
+  required: true
+  config:
+    min: '3'
+    max: 
+    step: ''
+- name: tribute_enabled
+  type: boolean
+  label: Tribute Enabled
+  default: true
