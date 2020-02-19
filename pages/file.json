@@ -1,0 +1,46 @@
+{
+  "displayLogo": true,
+  "customAmountOptions": {
+    "enabled": true,
+    "isMonthly": true,
+    "defaultAmount": 50,
+    "message": "provides shelter, meals and care for {{n}} people",
+    "multiplier": 12,
+    "messageSingular": "provides shelter, meals and care for 1 person"
+  },
+  "nickname": "KATU Hope for the Holidays Telethon",
+  "customContent": "<p><img src=\"https://give.data.portlandrescuemission.org/media/42-katu-hope-for-the-holidays.jpg\"></p><h3>Give Hope for the Holidays!</h3><p>Homelessness hurts, especially during the holidays. You can end the pain of homelessness and hunger. Give a hot, holiday meal to a hungry man, woman or child today!</p><p><strong>Your gift today gives hope to so many people in our community, as well as the first steps to a second chance in life.</strong></p>",
+  "emailNotRequired": false,
+  "isInternal": false,
+  "skipCvc": false,
+  "useIncentives": false,
+  "presets": [
+    {
+      "amount": 96,
+      "message": "",
+      "isMonthly": true,
+      "isDefault": false
+    },
+    {
+      "message": "",
+      "isMonthly": true,
+      "isDefault": false,
+      "amount": 48
+    },
+    {
+      "message": "",
+      "isMonthly": true,
+      "isDefault": true,
+      "amount": 36
+    },
+    {
+      "amount": 24,
+      "message": "",
+      "isMonthly": true,
+      "isDefault": false
+    }
+  ],
+  "defaultSegment": "T12191",
+  "title": "",
+  "video_id": ""
+}
