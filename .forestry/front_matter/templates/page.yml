@@ -131,7 +131,6 @@ pages:
 - pages/BullWeb.json
 - pages/FISH.json
 - pages/InternalFISH.json
-- pages/KATU.json
 - pages/KinkRadio.json
 - pages/KinkWeb.json
 - pages/MGL.json
@@ -151,6 +150,7 @@ pages:
 - pages/holidaymeal.json
 - pages/holidaynl.json
 - pages/inn.json
+- pages/katu.json
 - pages/katuholiday-int.json
 - pages/katuholiday.json
 - pages/knotsprings.json
