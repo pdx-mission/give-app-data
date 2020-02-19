@@ -5,6 +5,14 @@ admin_path: "/admin"
 webhook_url: 
 sections:
 - type: directory
+  path: templates
+  label: Templates
+  create: documents
+  match: "**/*"
+  new_doc_ext: ".json"
+  templates:
+  - template
+- type: directory
   path: pages
   label: Pages
   create: documents
