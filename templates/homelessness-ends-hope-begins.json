@@ -1,0 +1,16 @@
+{
+  "require_email": true,
+  "default_frequency": "monthly",
+  "default_open_amount": 50,
+  "tribute_enabled": true,
+  "title": "Homelessness Ends – Hope Begins!",
+  "image": "https://give.data.portlandrescuemission.org/media/photo-1509321565820-24355ad8db9e.jpg",
+  "video": "",
+  "content": "<p>Just $12 provides one night of care – a hearty meal, hot shower, clean clothes, and a safe night’s rest.</p><p>For many people, that’s enough to spark hope for a better life. Thanks to your gift, they can start a new life in our wide range of recovery programs.</p><p>Lives are changing at Portland Rescue Mission! Please help as many people as possible with a generous gift today.</p>",
+  "presets": [
+    "50",
+    "100",
+    "150",
+    "200"
+  ]
+}

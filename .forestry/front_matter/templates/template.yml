@@ -67,3 +67,5 @@ fields:
     min: '0'
     max: '4'
   label: Presets
+pages:
+- templates/homelessness-ends-hope-begins.json
