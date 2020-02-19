@@ -131,6 +131,7 @@ pages:
 - pages/BullWeb.json
 - pages/FISH.json
 - pages/InternalFISH.json
+- pages/KATU.json
 - pages/KinkRadio.json
 - pages/KinkWeb.json
 - pages/MGL.json
@@ -142,7 +143,6 @@ pages:
 - pages/coldweather.json
 - pages/fallnl.json
 - pages/falltg.json
-- pages/file.json
 - pages/form.json
 - pages/gateway-1.json
 - pages/gateway.json
