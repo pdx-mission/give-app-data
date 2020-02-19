@@ -152,12 +152,12 @@ pages:
 - pages/inn.json
 - pages/katuholiday-int.json
 - pages/katuholiday.json
-- pages/katushelter-int.json
 - pages/knotsprings.json
 - pages/koin-internal.json
 - pages/koin.json
 - pages/phone.json
 - pages/room.json
+- pages/shelterkatu-int.json
 - pages/shelterkatu.json
 - pages/thanksgivingcountdown.json
 - pages/winternl.json
