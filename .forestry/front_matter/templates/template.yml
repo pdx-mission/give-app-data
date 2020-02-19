@@ -60,3 +60,10 @@ fields:
   type: boolean
   label: Tribute Enabled
   default: true
+- name: presets
+  type: list
+  config:
+    use_select: false
+    min: '0'
+    max: '4'
+  label: Presets
