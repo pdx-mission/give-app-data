@@ -3,13 +3,12 @@
   "default_frequency": "monthly",
   "default_open_amount": 50,
   "tribute_enabled": true,
-  "title": "Easter Hope and New Life",
+  "title": "Easter Hope and New Life Test",
   "image": "https://give.data.portlandrescuemission.org/media/chris-barbalis-vazZtmYFgFY-unsplash.jpg",
   "video": "",
   "content": "<p>This Easter season, <strong>we'll prepare around 42,000 meals</strong> for hungry men, women and children in need.<br><br>Would you help with a generous gift today?</p><p><strong>The Easter meals you provide mean so much to people who are hungry and in crisis.</strong> For many, a hot, nutritious meal at Portland Rescue Mission will be the start of a new life in our recovery programs—<strong>all for just $2.09 per meal!</strong></p>",
   "presets": [
     "24",
-    "48",
     "72",
     "96"
   ]
