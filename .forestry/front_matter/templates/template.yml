@@ -69,3 +69,4 @@ fields:
   label: Presets
 pages:
 - templates/default.json
+- templates/easter-hope-and-new-life.json
