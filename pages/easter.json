@@ -2,21 +2,39 @@
   "displayLogo": true,
   "customAmountOptions": {
     "enabled": true,
-    "isMonthly": false,
-    "defaultAmount": 0,
+    "isMonthly": true,
+    "defaultAmount": 48,
     "message": "",
     "multiplier": 1,
     "messageSingular": ""
   },
-  "nickname": "Matching Gift Lead",
-  "customContent": "<p><img src=\"https://give.data.portlandrescuemission.org/media/2019 PRM Matching Gift Lead - Landing Page Header.jpg\"></p><p></p><p>Your gift today will help establish our Matching Gift effort for the coming year. <strong><br></strong><br>Together, with other like-minded, generous partners, your donation will be used to inspire new people to give to Portland Rescue Mission. <br><br>Thank you for sparking this compassionate movement to end homelessness and addiction in the lives of people here in our community!</p>",
-  "defaultSegment": "A10193W",
+  "nickname": "Easter Meal Ticket",
+  "customContent": "<p><img src=\"https://give.data.portlandrescuemission.org/media/2020-PRM-Easter-Meal-Ticket---Landing-Page-Header.jpg\">This Easter season, we'll prepare around 42,000 meals for hungry men, women and children in need.<br><br>Would you help with a generous gift today?<br><br><strong>The Easter meals you provide mean so much to people who are hungry and in crisis.</strong> For many, a hot, nutritious meal at Portland Rescue Mission will be the start of a new life in our recovery programs—<strong>all for just $2.09 per meal!</strong></p>",
+  "defaultSegment": "A02201",
   "emailNotRequired": false,
   "isInternal": false,
   "skipCvc": false,
   "useIncentives": false,
   "presets": [
-
+    {
+      "amount": 96,
+      "message": "a month",
+      "isMonthly": true,
+      "isDefault": false
+    },
+    {
+      "amount": 48,
+      "message": "a month",
+      "isMonthly": true,
+      "isDefault": true
+    },
+    {
+      "amount": 24,
+      "message": "a month",
+      "isMonthly": true,
+      "isDefault": false
+    }
   ],
-  "title": ""
+  "title": "",
+  "video_id": ""
 }
