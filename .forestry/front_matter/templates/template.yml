@@ -20,6 +20,7 @@ fields:
     required: false
   label: Video
   description: YouTube video URL
+  hidden: true
 - name: content
   type: textarea
   default: ''
