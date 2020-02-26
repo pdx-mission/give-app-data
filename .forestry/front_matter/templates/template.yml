@@ -11,8 +11,9 @@ fields:
 - name: image
   type: file
   config:
-    maxSize: 250
+    maxSize: '5'
   label: Image
+  description: 1800x1200px
 - name: video
   type: text
   config:
