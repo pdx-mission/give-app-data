@@ -71,3 +71,4 @@ fields:
   label: Presets
 pages:
 - templates/default.json
+- templates/yearend.json
