@@ -17,7 +17,7 @@ sections:
   match: "**/*"
   new_doc_ext: json
 upload_dir: media
-public_path: https://give.data.portlandrescuemission.org/media
+public_path: https://raw.githubusercontent.com/pdx-mission/give-app-data/master/media
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
