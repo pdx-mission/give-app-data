@@ -19,8 +19,8 @@ fields:
   config:
     required: false
   label: Video
-  description: YouTube video URL
-  hidden: true
+  description: YouTube video ID
+  hidden: false
 - name: content
   type: textarea
   default: ''
