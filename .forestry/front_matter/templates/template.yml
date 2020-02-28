@@ -9,6 +9,7 @@ fields:
     required: false
   label: Nickname
   description: Internal reference
+  hidden: true
 - name: title
   type: text
   config:
