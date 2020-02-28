@@ -78,7 +78,7 @@ fields:
   label: Presets
 pages:
 - templates/default.json
-- templates/give-shelter-365-days-a-year.json
+- templates/shelterkatu-internal.json
 - templates/shelterkatu.json
 - templates/winternl.json
 - templates/yearend.json
