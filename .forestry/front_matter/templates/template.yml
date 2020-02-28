@@ -1,7 +1,7 @@
 ---
 label: Template
 hide_body: true
-display_field: title
+display_field: nickname
 fields:
 - name: nickname
   type: text
