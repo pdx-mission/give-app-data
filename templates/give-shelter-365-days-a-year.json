@@ -1,12 +1,12 @@
 {
-  "require_email": true,
-  "default_frequency": "monthly",
+  "require_email": false,
+  "default_frequency": "once",
   "default_open_amount": 100,
-  "tribute_enabled": true,
-  "title": "Give Shelter 365 Days A Year!",
+  "tribute_enabled": false,
+  "title": "KATU Telethon (Internal)",
   "image": "https://give.data.portlandrescuemission.org/media/Snow-winter-shelter.jpg",
   "video": "",
-  "content": "<p><strong>No one should be hungry, cold and alone without a home</strong>. Your support will provide shelter, meals and access to healthcare, addiction recovery, life skills training, employment and housing.</p><p><strong>Your gift today gives hope</strong> to so many people in our community, as well as the first steps to a second chance in life.</p>",
+  "content": "<p>This is the internal page for volunteers and vendors processing telethon donations</p>",
   "presets": [
     "24",
     "36",
