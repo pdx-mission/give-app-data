@@ -3,6 +3,12 @@ label: Template
 hide_body: true
 display_field: title
 fields:
+- name: nickname
+  type: text
+  config:
+    required: false
+  label: Nickname
+  description: Internal reference
 - name: title
   type: text
   config:
