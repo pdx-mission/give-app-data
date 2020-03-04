@@ -1,7 +1,7 @@
 {
   "require_email": true,
   "default_frequency": "monthly",
-  "default_open_amount": 100,
+  "default_open_amount": 36,
   "tribute_enabled": true,
   "title": "Give Shelter 365 Days A Year!",
   "image": "https://give.data.portlandrescuemission.org/media/Snow-winter-shelter.jpg",
