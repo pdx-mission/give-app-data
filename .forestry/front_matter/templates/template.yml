@@ -78,6 +78,7 @@ fields:
   label: Presets
 pages:
 - templates/default.json
+- templates/easter.json
 - templates/shelterkatu-internal.json
 - templates/shelterkatu.json
 - templates/winternl.json
