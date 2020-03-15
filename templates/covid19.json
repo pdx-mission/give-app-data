@@ -1,0 +1,17 @@
+{
+  "require_email": true,
+  "default_frequency": "once",
+  "default_open_amount": null,
+  "tribute_enabled": true,
+  "nickname": "",
+  "title": "COVID19",
+  "image": "https://give.data.portlandrescuemission.org/media/Covid 4.jpg",
+  "video": "",
+  "content": "<p><strong>The COVID-19 crisis places many of our neighbors at risk.</strong></p><p class=\"MsoNormal\">People without a home are already vulnerable to sickness, weather, exhaustion and malnutrition. More than ever, these brothers and sisters need our loving care.<br> <br><strong>Please help with an extra-generous gift today to keep our doors open 24/7, and to provide life-sustaining meals, shelter and other vital care during this crisis.</strong></p><p class=\"MsoNormal\">We receive no government funding, so we are especially dependent on your support to provide care 24/7 when people need us most.</p><p class=\"MsoNormal\">Thank you!</p>",
+  "presets": [
+    "500",
+    "250",
+    "125",
+    "75"
+  ]
+}
