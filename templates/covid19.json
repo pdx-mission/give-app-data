@@ -1,7 +1,7 @@
 {
   "require_email": true,
   "default_frequency": "once",
-  "default_open_amount": null,
+  "default_open_amount": 250,
   "tribute_enabled": true,
   "nickname": "",
   "title": "COVID-19 Response",
