@@ -1,0 +1,17 @@
+{
+  "require_email": true,
+  "default_frequency": "monthly",
+  "default_open_amount": null,
+  "tribute_enabled": true,
+  "nickname": "",
+  "title": "Spring Newsletter 2020",
+  "image": "",
+  "video": "",
+  "content": "<p>Homelessness ends!</p><p><strong>Together, with your support, we can do so much more to reduce the number of people suffering in homelessness, hunger and addiction here in our community.</strong></p><p><strong>Your gift today provides more than just temporary help with meals and shelter.</strong> You also provide a wide range of resources and programs designed to meet people at their point of need. You offer compassionate and supportive relationships to help them each step of the way on their journey toward a new life.</p><p>Please help as generously as you can today!</p>",
+  "presets": [
+    "96",
+    "60",
+    "36",
+    "24"
+  ]
+}
