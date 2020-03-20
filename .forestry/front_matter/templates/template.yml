@@ -82,7 +82,7 @@ pages:
 - templates/easter.json
 - templates/shelterkatu-internal.json
 - templates/shelterkatu.json
-- templates/spring-newsletter-2020.json
+- templates/springnl.json
 - templates/winternl.json
 - templates/yearend.json
 - templates/yearofhope.json
