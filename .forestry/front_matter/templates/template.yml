@@ -80,6 +80,7 @@ pages:
 - templates/covid19.json
 - templates/default.json
 - templates/easter.json
+- templates/matching-gift-2020.json
 - templates/shelterkatu-internal.json
 - templates/shelterkatu.json
 - templates/springnl.json
