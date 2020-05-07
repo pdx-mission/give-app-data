@@ -81,7 +81,7 @@ pages:
 - templates/default.json
 - templates/easter.json
 - templates/givingtuesdaynow.json
-- templates/good-shepherd-donation-drive.json
+- templates/goodshepherd.json
 - templates/matchinggift.json
 - templates/shelterkatu-internal.json
 - templates/shelterkatu.json
