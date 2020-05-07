@@ -1,0 +1,14 @@
+{
+  "require_email": true,
+  "default_frequency": "once",
+  "default_open_amount": 50,
+  "tribute_enabled": true,
+  "nickname": "",
+  "title": "Good Shepherd Donation Drive",
+  "image": "https://give.data.portlandrescuemission.org/media/PRM Landing Page Header Teamplate.jpg",
+  "video": "",
+  "content": "<p>The Good Shepherd Donation Drive benefits Portland Rescue Mission’s one-year residential Christ-centered recovery program. New Life Ministries is located at Shepherd’s Door for women and children and at The Harbor for men. </p><p>We are collecting items to support program participant needs, basic pantry staples and summer fun for 100 men, women and children “staying home” during a COVID 19 Summer.</p><p>The items we collect and donate give hope and restore life to men, women and children affected by homelessness and addiction.</p><p>Collect items in a bag or box, in the trunk of your car, and deliver them to Good Shepherd Community Church, on Sunday May 17th between 1-3pm.</p>",
+  "presets": [
+
+  ]
+}
