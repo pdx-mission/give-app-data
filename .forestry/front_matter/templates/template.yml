@@ -77,7 +77,7 @@ fields:
     max: '4'
   label: Presets
 pages:
-- templates/care-partners.json
+- templates/carepartners.json
 - templates/covid19.json
 - templates/default.json
 - templates/easter.json
