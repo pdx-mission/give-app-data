@@ -1,17 +1,14 @@
 {
   "require_email": true,
   "default_frequency": "once",
-  "default_open_amount": 200,
+  "default_open_amount": 1881,
   "tribute_enabled": false,
   "nickname": "",
   "title": "Care Partners",
   "image": "https://give.data.portlandrescuemission.org/media/backpackman.jpg",
   "video": "",
-  "content": "<p>Your partnership has the power to transform the lives of the some of the most vulnerable members of society, while also meeting your corporate social responsibility objectives and engaging your staff. We honor our Care Partner’s donation by recognizing your partnership through Portland Rescue Mission’s marketing channels as well as provide you with a branded marketing tool kit that you can use to spread the word to your friends, family and customers.</p><p class=\"MsoNormal\"></p><p class=\"MsoNormal\"><strong>Choose the package:</strong></p><p class=\"MsoNormal\">Own the Day - $1,881</p><p class=\"MsoNormal\">Own the Day + Night - $3477</p><p class=\"MsoNormal\">Restart Life - $11,676</p><p class=\"MsoNormal\">Restore Life - 6 months $14,000</p><p class=\"MsoNormal\">Restore Life - 12 months $28,000</p><p class=\"MsoNormal\">Other Amount - $XXX</p>",
+  "content": "<p>Your partnership has the power to transform the lives of the some of the most vulnerable members of society, while also meeting your corporate social responsibility objectives and engaging your staff. We honor your Care Partner donations by recognizing your partnership through Portland Rescue Mission’s marketing channels as well as providing you with a branded marketing toolkit that you can use to spread the word to your friends, family and customers.</p><p class=\"MsoNormal\"></p><p class=\"MsoNormal\"><strong>Choose the package:</strong></p><p class=\"MsoNormal\">Own the Day: $1,881</p><p class=\"MsoNormal\">Own the Day and Night: $3,477</p><p class=\"MsoNormal\">Restart Life: $11,676</p><p class=\"MsoNormal\">Restore Life (6 months): $14,000</p><p class=\"MsoNormal\">Restore Life (12 months): $28,000</p>",
   "presets": [
-    "1881",
-    "3477",
-    "8610",
-    "14400"
+
   ]
 }
