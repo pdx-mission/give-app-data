@@ -1,0 +1,14 @@
+{
+  "require_email": true,
+  "default_frequency": "monthly",
+  "default_open_amount": null,
+  "tribute_enabled": true,
+  "nickname": "",
+  "title": "Summer Response",
+  "image": "https://give.data.portlandrescuemission.org/media/2020-prm-3-month-summer-ask-landing-page-header-new-1.jpg",
+  "video": "",
+  "content": "<p><strong>The effects of COVID-19 will be felt in our community all summer long--July, July, August--and maybe longer.</strong><br><br><strong>Your gift today keeps our services and programs going strong</strong>--free of charge--to anyone in need.<br><br><strong>Please help as generously as you're able</strong> to provide protective health supplies, meals and safety for people with no home to shelter in. Plus recovery program care for people struggling with trauma and addiction.</p>",
+  "presets": [
+
+  ]
+}
