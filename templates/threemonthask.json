@@ -1,7 +1,7 @@
 {
   "require_email": true,
-  "default_frequency": "monthly",
-  "default_open_amount": null,
+  "default_frequency": "once",
+  "default_open_amount": 100,
   "tribute_enabled": true,
   "nickname": "",
   "title": "Summer Response",
