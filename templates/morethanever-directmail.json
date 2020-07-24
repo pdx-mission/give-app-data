@@ -17,6 +17,11 @@
   "skipCvc": false,
   "useIncentives": false,
   "presets": [
-
+    {
+      "amount": 50,
+      "message": "Test",
+      "isMonthly": true,
+      "isDefault": false
+    }
   ]
 }
