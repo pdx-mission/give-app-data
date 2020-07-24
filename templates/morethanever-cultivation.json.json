@@ -2,7 +2,7 @@
   "require_email": true,
   "default_frequency": "monthly",
   "default_open_amount": 50,
-  "tribute_enabled": true,
+  "tribute_enabled": false,
   "nickname": "",
   "title": "morethanever-cultivation.json",
   "image": "https://give.data.portlandrescuemission.org/media/2020-prm-more-than-ever-donation-header.jpg",
