@@ -5,7 +5,7 @@
     "isMonthly": true,
     "defaultAmount": 50,
     "multiplier": 1,
-    "message": "",
+    "message": "test",
     "messageSingular": ""
   },
   "nickname": "morethaneverdirectmail.json",
