@@ -84,6 +84,7 @@ pages:
 - templates/givingtuesdaynow.json
 - templates/goodshepherd.json
 - templates/matchinggift.json
+- templates/morethanever-cultivation.json.json
 - templates/shelterkatu-internal.json
 - templates/shelterkatu.json
 - templates/springnl.json
