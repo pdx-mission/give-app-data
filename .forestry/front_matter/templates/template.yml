@@ -93,7 +93,6 @@ pages:
 - templates/springnl.json
 - templates/summernewsletter.json
 - templates/thanksgivingcountdown.json
-- templates/thanksgivingcountdown.json.json
 - templates/threemonthask.json
 - templates/winternl.json
 - templates/yearend.json
