@@ -79,6 +79,7 @@ fields:
 pages:
 - templates/2020acqgivelooseticket.json
 - templates/2020acqgivethanksmealticket.json
+- templates/2020rkddigitalacquisition.json
 - templates/carepartners.json
 - templates/communityoffaith.json
 - templates/covid19.json
