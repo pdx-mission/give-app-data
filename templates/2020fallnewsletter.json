@@ -1,0 +1,17 @@
+{
+  "require_email": true,
+  "default_frequency": "monthly",
+  "default_open_amount": 50,
+  "tribute_enabled": true,
+  "nickname": "",
+  "title": "2020fallnewsletter",
+  "image": "https://give.data.portlandrescuemission.org/media/prm-2020-acquisition-digital-landing-page-header.jpg",
+  "video": "",
+  "content": "<p><strong>Neighbors in our community are struggling right now.</strong></p><p><strong>Your gift today provides practical help like hot, nutritious meals for hungry people</strong>. Plus a wide range of programs that help people get a new start through addiction recovery and life skills training, supported by people who care.</p><p><strong>Lives are changing at Portland Rescue Mission</strong>! Please help as many people as possible with a generous gift today.</p>",
+  "presets": [
+    "96",
+    "60",
+    "36",
+    "24"
+  ]
+}
