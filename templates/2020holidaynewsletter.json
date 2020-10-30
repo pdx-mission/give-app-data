@@ -1,0 +1,17 @@
+{
+  "require_email": true,
+  "default_frequency": "monthly",
+  "default_open_amount": 50,
+  "tribute_enabled": true,
+  "nickname": "",
+  "title": "2020holidaynewsletter",
+  "image": "https://give.data.portlandrescuemission.org/media/2020-11-harper-houf-peterson-righellis-inc-header.jpg",
+  "video": "",
+  "content": "<p>When neighbors hit hard times, your support of Portland Rescue Mission provides the care they need in crisis.</p><p><strong>Your donation of $24 provides two nights of care</strong> – a hearty meal, hot shower, clean clothes, and a safe night’s rest.</p><p>For many people, that’s enough to<strong> spark hope for a better life</strong>. Thanks to your gift, they can start a new life in our wide range of recovery programs.</p><p><strong>Lives are changing at Portland Rescue Mission</strong>! Please help as many people as possible with a generous gift today.</p><p>(Special thanks to <a href=\"https://hhpr.com/\" title=\"\"><strong>Harper Houf Peterson Righellis Inc.</strong></a> for your Care Partner support!)</p>",
+  "presets": [
+    "96",
+    "60",
+    "36",
+    "24"
+  ]
+}
