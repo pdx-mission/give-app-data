@@ -1,0 +1,17 @@
+{
+  "require_email": true,
+  "default_frequency": "monthly",
+  "default_open_amount": 50,
+  "tribute_enabled": true,
+  "title": "2020katuhopefortheholidaystelethon",
+  "image": "https://give.data.portlandrescuemission.org/media/2020-prm-koin-thon-donation-header.jpg",
+  "video": "",
+  "content": "<p>When neighbors hit hard times, your support of Portland Rescue Mission provides the care they need in crisis.</p><p><strong>Your monthly donation of $24 provides two nights of care</strong> – a hearty meal, hot shower, clean clothes, and a safe night’s rest.</p><p>For many people, that’s enough to<strong> spark hope for a better life</strong>. Thanks to your gift, they can start a new life in our wide range of recovery programs.</p>",
+  "presets": [
+    "24",
+    "48",
+    "96",
+    "192"
+  ],
+  "nickname": ""
+}
