@@ -4,14 +4,14 @@
   "default_open_amount": 50,
   "tribute_enabled": true,
   "nickname": "",
-  "title": "2020acqchristmas",
-  "image": "https://give.data.portlandrescuemission.org/media/givethanksmealticket.jpg",
+  "title": "Give Hope for the Holidays",
+  "image": "https://give.data.portlandrescuemission.org/media/2020-12-prm-christmas-acquisition-donation-header.jpg",
   "video": "",
-  "content": "<p>For about $2, you can provide someone who is struggling with a delicious Thanksgiving dinner and a night of care at Portland Rescue Mission.</p><p><strong>Please help as generously as you're able. Neighbors in need are so grateful for your help!</strong></p>",
+  "content": "<p>It’s so easy to transform a neighbor’s life and<strong> put God’s love in their heart this Christmas season. </strong></p><p>Your gift today is just the start for people suffering from hunger and homelessness as you provide nourishing meals -- <strong>for just $2.09 per meal</strong>!</p><p>Please help as generously as you're able. Neighbors in need are so grateful for your help!</p>",
   "presets": [
-    "96",
-    "60",
-    "36",
-    "24"
+    "31.35",
+    "62.70",
+    "125.40",
+    "250.80"
   ]
 }
