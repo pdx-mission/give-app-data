@@ -82,6 +82,7 @@ pages:
 - templates/2020acqgivelooseticket.json
 - templates/2020acqgivethanksmealticket.json
 - templates/2020blackfriday.json
+- templates/2020decemberenews.json
 - templates/2020fallnewsletter.json
 - templates/2020gatewaylapsedcallcampaign.json
 - templates/2020givingtuesday.json
