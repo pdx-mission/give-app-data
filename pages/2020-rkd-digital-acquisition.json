@@ -27,6 +27,12 @@
       "amount": 60,
       "message": "",
       "isMonthly": true,
+      "isDefault": false
+    },
+    {
+      "amount": 36,
+      "message": "",
+      "isMonthly": true,
       "isDefault": true
     },
     {
