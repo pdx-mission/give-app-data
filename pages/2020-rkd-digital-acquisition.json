@@ -1,0 +1,40 @@
+{
+  "displayLogo": true,
+  "customAmountOptions": {
+    "enabled": true,
+    "isMonthly": true,
+    "defaultAmount": 50,
+    "multiplier": 1,
+    "message": "",
+    "messageSingular": ""
+  },
+  "nickname": "Gift Record 2020 (Year of Hope)",
+  "customContent": "<p><img src=\"https://give.data.portlandrescuemission.org/media/2020-PRM-Gift-Record---Landing-Page-Header.jpg\"></p><p><strong>Your continued support in 2020 can bring a lasting solution to the issues of homelessness and addiction.</strong><br><br>In this post-holiday season, giving goes down, but the wintertime need for hot meals, warm beds, and safety is as great as ever.<br><br>Please help with an extra-generous gift today. <strong>Your gift could lead someone out of homelessness and addiction into a truly transformed life in our recovery programs!</strong></p>",
+  "defaultSegment": "A01201",
+  "video_id": "",
+  "emailNotRequired": false,
+  "isInternal": false,
+  "skipCvc": false,
+  "useIncentives": false,
+  "presets": [
+    {
+      "amount": 96,
+      "message": "",
+      "isMonthly": true,
+      "isDefault": false
+    },
+    {
+      "amount": 48,
+      "message": "",
+      "isMonthly": true,
+      "isDefault": true
+    },
+    {
+      "amount": 24,
+      "message": "",
+      "isMonthly": true,
+      "isDefault": false
+    }
+  ],
+  "title": "2020 RKD Digital Acquisition"
+}
