@@ -98,6 +98,7 @@ pages:
 - templates/2020rkddigitalacquisition.json
 - templates/2020roomattheinn.json
 - templates/2020thanksgivingmealticket.json
+- templates/2020winternl.json
 - templates/2020yearend.json
 - templates/2020yearofhope.json
 - templates/2020yourchoice.json
@@ -118,5 +119,4 @@ pages:
 - templates/summernewsletter.json
 - templates/thanksgivingcountdown.json
 - templates/threemonthask.json
-- templates/winternl.json
 - templates/yearend.json
