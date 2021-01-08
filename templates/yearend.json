@@ -1,7 +1,7 @@
 {
   "require_email": true,
   "default_frequency": "monthly",
-  "default_open_amount": 50,
+  "default_open_amount": null,
   "tribute_enabled": true,
   "title": "Year End",
   "image": "https://give.data.portlandrescuemission.org/media/20160809_gc_0731-1024x684.jpg",
@@ -12,5 +12,6 @@
     "24",
     "48",
     "96"
-  ]
+  ],
+  "nickname": ""
 }
