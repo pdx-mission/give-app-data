@@ -1,7 +1,7 @@
 {
   "require_email": true,
   "default_frequency": "monthly",
-  "default_open_amount": 50,
+  "default_open_amount": null,
   "tribute_enabled": true,
   "title": "Homelessness Ends – Hope Begins!",
   "image": "https://give.data.portlandrescuemission.org/media/2021-prm-winter-newsletter-landing-page-header.png",
