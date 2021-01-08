@@ -1,7 +1,7 @@
 {
   "require_email": true,
   "default_frequency": "monthly",
-  "default_open_amount": 50,
+  "default_open_amount": null,
   "tribute_enabled": true,
   "nickname": "",
   "title": "Last Chance in 2020",
