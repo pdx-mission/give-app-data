@@ -1,7 +1,7 @@
 {
   "require_email": true,
   "default_frequency": "monthly",
-  "default_open_amount": 50,
+  "default_open_amount": null,
   "tribute_enabled": true,
   "title": "Change More Lives in 2021",
   "image": "https://give.data.portlandrescuemission.org/media/2021-prm-gift-record-landing-page-header.png",
