@@ -102,6 +102,7 @@ pages:
 - templates/2020yearend.json
 - templates/2020yearofhope.json
 - templates/2020yourchoice.json
+- templates/2021janmonthly.json
 - templates/carepartners.json
 - templates/communityoffaith.json
 - templates/covid19.json
