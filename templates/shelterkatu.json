@@ -1,7 +1,7 @@
 {
   "require_email": true,
   "default_frequency": "monthly",
-  "default_open_amount": 36,
+  "default_open_amount": null,
   "tribute_enabled": true,
   "title": "Give Shelter 365 Days A Year!",
   "image": "https://give.data.portlandrescuemission.org/media/2021-03-prm-katu-shelter-365-header.jpg",
