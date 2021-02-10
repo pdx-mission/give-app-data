@@ -76,14 +76,6 @@ fields:
     min: '0'
     max: '4'
   label: Presets
-- name: tribute_
-  type: tag_list
-  default: []
-  showOnly:
-    field: require_email
-  label: 'Tribute '
-  description: Is this a tribute in honor of a loved one?
-  hidden: false
 pages:
 - templates/00ew1020wedwardwadsworth.json
 - templates/2020acqchristmas.json
