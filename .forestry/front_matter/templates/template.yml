@@ -124,4 +124,5 @@ pages:
 - templates/summernewsletter.json
 - templates/thanksgivingcountdown.json
 - templates/threemonthask.json
+- templates/touchmark.json
 - templates/yearend.json
