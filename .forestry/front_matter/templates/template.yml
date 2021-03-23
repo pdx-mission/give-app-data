@@ -106,7 +106,6 @@ pages:
 - templates/2021janmonthly.json
 - templates/2021janonce.json
 - templates/2021springnl.json
-- templates/2021touchmark.json
 - templates/carepartners.json
 - templates/communityoffaith.json
 - templates/covid19.json
@@ -124,6 +123,5 @@ pages:
 - templates/summernewsletter.json
 - templates/thanksgivingcountdown.json
 - templates/threemonthask.json
-- templates/touchmark.json
 - templates/touchmark2021.json
 - templates/yearend.json
