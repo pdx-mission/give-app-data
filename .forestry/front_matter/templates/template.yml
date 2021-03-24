@@ -105,6 +105,7 @@ pages:
 - templates/2021_emttest_.json.json
 - templates/2021janmonthly.json
 - templates/2021janonce.json
+- templates/2021touchmark.json
 - templates/carepartners.json
 - templates/communityoffaith.json
 - templates/covid19.json
