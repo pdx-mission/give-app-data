@@ -117,6 +117,7 @@ pages:
 - templates/givingtuesdaynow.json
 - templates/goodshepherd.json
 - templates/matchinggift.json
+- templates/matchinggift.json-copy.json
 - templates/morethanevercultivation.json
 - templates/morethaneverthon.json
 - templates/shelterkatu-internal.json
