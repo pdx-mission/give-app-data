@@ -102,11 +102,11 @@ pages:
 - templates/2020yearend.json
 - templates/2020yearofhope.json
 - templates/2020yourchoice.json
-- templates/2021 Matching Gift.json
 - templates/2021_emttest_.json.json
 - templates/2021janmonthly.json
 - templates/2021janonce.json
 - templates/2021matchinggift.json
+- templates/2021matchinggiftE.json
 - templates/2021summerhope.json
 - templates/2021summerofhope.json
 - templates/2021touchmark.json
