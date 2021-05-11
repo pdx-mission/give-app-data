@@ -24,9 +24,15 @@
       "isDefault": false
     },
     {
-      "amount": 100,
+      "amount": 50,
       "message": "",
       "isMonthly": true,
+      "isDefault": false
+    },
+    {
+      "amount": 250,
+      "message": "",
+      "isMonthly": false,
       "isDefault": false
     }
   ]
