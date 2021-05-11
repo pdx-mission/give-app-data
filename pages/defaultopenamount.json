@@ -22,6 +22,12 @@
       "message": "",
       "isMonthly": true,
       "isDefault": false
+    },
+    {
+      "amount": 100,
+      "message": "",
+      "isMonthly": true,
+      "isDefault": false
     }
   ]
 }
