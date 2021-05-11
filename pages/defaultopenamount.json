@@ -3,7 +3,7 @@
   "customAmountOptions": {
     "enabled": true,
     "isMonthly": false,
-    "defaultAmount": 50,
+    "defaultAmount": 200,
     "multiplier": 1,
     "message": "",
     "messageSingular": ""
@@ -18,7 +18,7 @@
   "useIncentives": false,
   "presets": [
     {
-      "amount": null,
+      "amount": 50,
       "message": "",
       "isMonthly": true,
       "isDefault": false
