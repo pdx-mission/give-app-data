@@ -142,6 +142,7 @@ pages:
 - pages/christmasmeal.json
 - pages/coffee.json
 - pages/coldweather.json
+- pages/defaultopenamount.json
 - pages/easter.json
 - pages/fallnl.json
 - pages/falltg.json
