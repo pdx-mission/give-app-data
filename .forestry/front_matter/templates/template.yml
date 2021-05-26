@@ -119,7 +119,6 @@ pages:
 - templates/givingtuesdaynow.json
 - templates/goodshepherd.json
 - templates/matchinggift.json
-- templates/mayenews.json
 - templates/maytest.json
 - templates/morethanevercultivation.json
 - templates/morethaneverthon.json
