@@ -7,7 +7,7 @@
   "title": "junetest",
   "image": "https://give.data.portlandrescuemission.org/media/stillhope.jpg",
   "video": "",
-  "content": "<p>The coronavirus pandemic has heightened the dangers of addiction, abuse, hunger and homelessness in our community.</p><p><strong>Your gift today provides much-needed meals, protective health equipment, hygiene stations, 24/7 restrooms and other vital care for neighbors in need.</strong></p><p>Please help as generously as you can today!</p>",
+  "content": "<blockquote><pre><code>&lt;script\n    src=\"https://cdn.virtuoussoftware.com/virtuous.embed.min.js\"\n    data-vform=\"1BADFDBA-C82B-44F8-B075-8DEB7C6361B6\"\n    data-orgId=\"1211\"\n    data-isGiving=\"true\"\n    data-merchantType=\"Stripe\"\n    data-dependencies=\"[]\"&gt;\n&lt;/script&gt;</code></pre></blockquote>",
   "presets": [
     "24",
     "48",
