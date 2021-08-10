@@ -105,6 +105,7 @@ pages:
 - templates/2021_emttest_.json.json
 - templates/2021acqgivelooseticket.json
 - templates/2021ematchinggift.json
+- templates/2021fallnewsletter.json
 - templates/2021fireworks.json
 - templates/2021heatrelief.json
 - templates/2021hope-1.json
