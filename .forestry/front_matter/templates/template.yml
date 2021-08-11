@@ -124,7 +124,6 @@ pages:
 - templates/communityoffaith.json
 - templates/covid19.json
 - templates/covidcarekit.json
-- templates/default.json
 - templates/easter.json
 - templates/givingtuesdaynow.json
 - templates/goodshepherd.json
