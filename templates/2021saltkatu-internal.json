@@ -1,5 +1,5 @@
 {
-  "require_email": false,
+  "require_email": true,
   "default_frequency": "once",
   "default_open_amount": 100,
   "tribute_enabled": false,
