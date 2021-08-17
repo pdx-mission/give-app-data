@@ -127,7 +127,6 @@ pages:
 - templates/easter.json
 - templates/givingtuesdaynow.json
 - templates/goodshepherd.json
-- templates/junetest.json
 - templates/matchinggift.json
 - templates/maytest.json
 - templates/morethanevercultivation.json
