@@ -145,7 +145,6 @@ pages:
 - pages/easter.json
 - pages/fallnl.json
 - pages/falltg.json
-- pages/form.json
 - pages/gateway-1.json
 - pages/gateway.json
 - pages/givingtuesday.json
