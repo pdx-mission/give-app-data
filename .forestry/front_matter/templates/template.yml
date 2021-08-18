@@ -123,7 +123,6 @@ pages:
 - templates/communityoffaith.json
 - templates/covid19.json
 - templates/covidcarekit.json
-- templates/easter.json
 - templates/givingtuesdaynow.json
 - templates/goodshepherd.json
 - templates/matchinggift.json
