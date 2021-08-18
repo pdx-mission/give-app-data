@@ -77,7 +77,6 @@ fields:
     max: '4'
   label: Presets
 pages:
-- templates/00ew1020wedwardwadsworth.json
 - templates/2020acqchristmas.json
 - templates/2020acqgivelooseticket.json
 - templates/2020acqgivethanksmealticket.json
