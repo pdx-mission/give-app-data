@@ -125,7 +125,6 @@ pages:
 - templates/covidcarekit.json
 - templates/givingtuesdaynow.json
 - templates/goodshepherd.json
-- templates/matchinggift.json
 - templates/maytest.json
 - templates/morethanevercultivation.json
 - templates/morethaneverthon.json
