@@ -129,8 +129,6 @@ pages:
 - pages/2020-rkd-digital-acquisition.json
 - pages/FISH.json
 - pages/InternalFISH.json
-- pages/MGL.json
-- pages/More Than Ever - Direct Mail.json
 - pages/coffee.json
 - pages/easter.json
 - pages/fallnl.json
@@ -141,7 +139,6 @@ pages:
 - pages/holidaynl.json
 - pages/katuholiday-int.json
 - pages/katuholiday.json
-- pages/koin.json
 - pages/phone.json
 - pages/shelterkatu-int.json
 - pages/yearofhope.json
