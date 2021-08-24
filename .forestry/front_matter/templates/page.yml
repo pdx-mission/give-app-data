@@ -143,7 +143,5 @@ pages:
 - pages/katuholiday.json
 - pages/koin.json
 - pages/phone.json
-- pages/room.json
 - pages/shelterkatu-int.json
-- pages/thanksgivingcountdown.json
 - pages/yearofhope.json
