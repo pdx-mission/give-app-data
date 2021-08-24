@@ -127,8 +127,6 @@ fields:
   label: Custom Amount Options
 pages:
 - pages/2020-rkd-digital-acquisition.json
-- pages/FISH.json
-- pages/InternalFISH.json
 - pages/coffee.json
 - pages/easter.json
 - pages/fallnl.json
